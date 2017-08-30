@@ -1,0 +1,579 @@
+@media(max-width: 768px){
+    
+    .nduwur{display:none;}   
+
+
+    .menu-home,
+    .menu-clictoys,
+    .menu-playmags,
+    .menu-clickbuildingplan,
+    .menu-playmagsbuildingplan,
+    .menu-aboutclick,
+    .menu-aboutplaymags,
+    .menu-contest
+    {
+    width: 97% !important;
+    }
+    
+    .menu-clickbuildingplan a,
+    .menu-playmagsbuildingplan a,
+    .menu-aboutplaymags a,
+    .menu-aboutclick a
+    {
+        position: relative;
+        top: 10px;
+    }
+    
+
+    .navbar-header
+    {
+        background-color: #28324e;
+        margin-top: 5px;
+        
+    }
+    
+    .navbar-brand
+    {
+        display: normal;
+        color: red;
+    }
+    
+    .become
+    {
+        display: none;
+    }
+    .icon-img
+    {
+        position: relative;
+        top: 20px;
+    }
+    
+    .thum-right
+    {
+        margin-top: -40px !important;
+    }
+     .thum-left
+    {
+        margin-top: 0px;
+    }
+    .wslider
+    {
+        margin-top: -20px;
+    }
+    
+    .buy-left
+    {
+        position: relative;
+        left: 4% !important;
+        width: 40%;
+        height: 70%;
+        font-size:9px;
+        padding: 0;
+        bottom:65px !important;
+    }
+    .crossing-buy
+    {
+        font-size:15px !important;
+    }
+    .buy-left img , .buy-right img
+    {
+        width: 20px;
+    }
+    .buy-right
+    {
+        position: relative;
+        left:52% !important;
+        width: 40%;
+        height: 70%;
+        font-size:9px;
+        padding: 0;
+        bottom:65px !important;
+        
+    }
+    .thum-right
+    {
+        margin-top: 0px;
+    }
+    .content-circle
+    {
+        padding-left: 0px !important;
+    }
+    .menu-feature
+    {
+        margin-top: -40px !important;
+    }
+     .special
+    {
+        display: none;
+    }
+    .product
+    {
+        margin-top: 10px !important;
+    }
+    
+    .build:after
+    {
+        content: url(../img/building.png); 
+        position: absolute;
+        top: 105% !important;
+        left: 42% !important;
+        z-index: 999;
+        transform: rotate(90deg);
+    }
+    .upload:after
+    {
+        content: url(../img/building.png); 
+        position: absolute;
+        top: 105% !important;
+        left: 42% !important;
+        z-index: 999;
+        transform: rotate(90deg);
+    }
+    .picvid
+    {
+        background-color: white;
+        margin: 0;
+        padding: 0;
+        font-family: myFont;
+    }
+    .build, .upload, .winner{
+        font-size: 12px;
+    }
+    .olshop
+    {
+        display: none !important;
+    }
+}
+
+
+@media(min-width: 768px){
+    
+    .thum-left{margin-left: 25px;}
+    .thum-right{margin-right: 25px;}
+    /*
+    .buy-left
+    {
+        position: relative;
+        left: 10% !important;
+        width: 38%;
+        height: 37px;
+        font-size:12px;
+        padding: 0;
+        bottom:70px !important;
+    }
+    .crossing-buy
+    {
+        font-size:20px !important;
+    }
+    .buy-left img , .buy-right img
+    {
+        width:30px;
+    }
+    .buy-right
+    {
+        position: relative;
+        left:48% !important;
+        width: 40%;
+        height: 37px;
+        font-size:12px;
+        padding: 0;
+        bottom:70px !important;
+        
+    }
+    */
+  
+}
+
+@media(max-width: 970px){
+    
+     .content-circle
+    {
+        padding-left: 0px !important;
+    }
+    .special
+    {
+        display: none;
+    }
+   .product
+    {
+        margin-top: 10px !important;
+    }
+}
+    
+@font-face {
+    font-family: myFont;
+    src: url(../fonts/texgyreheros-regular.otf);
+}
+
+
+.navbar-brand
+    {
+        display: none;
+        color: red;
+    }
+    
+.menu-home,
+.menu-clictoys,
+.menu-playmags,
+.menu-clickbuildingplan,
+.menu-playmagsbuildingplan,
+.menu-aboutclick,
+.menu-contest,
+.menu-aboutplaymags
+
+{
+    height: 70px; 
+    width: 126px;
+    border-radius: 10px;
+    margin:  6px; 
+    font-size: 14px;
+    z-index: 9;
+}
+.menu-home:hover,
+.menu-clictoys:hover,
+.menu-playmags:hover,
+.menu-clickbuildingplan:hover,
+.menu-playmagsbuildingplan:hover,
+.menu-aboutclick:hover,
+.menu-aboutplaymags:hover,
+.menu-contest:hover
+{
+    background-color: #fff;
+}
+.menu-home
+{
+        background-color: #f52657;
+        border: 1px solid #f52657;
+}
+
+.menu-clictoys
+{
+    background-color: #f96a3c; 
+    border: 1px solid #f96a3c;
+}
+.menu-playmags
+{
+    background-color: #f9c234; 
+    border: 1px solid #f9c234;
+}
+.menu-clickbuildingplan
+{
+    background-color: #2ece55; 
+    border: 1px solid #2ece55;
+}
+.menu-playmagsbuildingplan
+{
+    background-color: #57c5f2;
+    border: 1px solid #57c5f2;
+}
+.menu-aboutclick
+{
+    background-color: #b767ec;
+    border: 1px solid #b767ec;
+}
+.menu-aboutplaymags
+{
+    background-color:#aeb0b1; 
+    border: 1px solid #aeb0b1;
+}
+.menu-contest
+{
+    background-color: #6096fc;
+    border: 1px solid #6096fc;
+}
+
+.menu-home a,
+.menu-clictoys a,
+.menu-playmags a,
+.menu-clickbuildingplan a,
+.menu-playmagsbuildingplan a,
+.menu-aboutclick a,
+.menu-contest a,
+.menu-aboutplaymags a
+{
+    height: 68px;
+    color: white;
+    font-weight: bold;
+    font-family: myFont; 
+  
+}
+.menu-home a,
+.menu-clictoys a,
+.menu-playmags a,
+.menu-contest a
+{
+    position: relative;
+    top: 10px;
+}
+.menu-clickbuildingplan a,
+.menu-playmagsbuildingplan a
+{
+    position: relative;
+    bottom: 5px;
+    font-size: 11px;
+}
+
+
+.menu-home a:hover,
+.menu-clictoys a:hover,
+.menu-playmags a:hover,
+.menu-clickbuildingplan a:hover,
+.menu-playmagsbuildingplan a:hover,
+.menu-aboutclick a:hover,
+.menu-aboutplaymags a:hover,
+.menu-contest a:hover
+{
+    background-color: transparent !important; 
+    border-radius: 5px;
+}
+
+
+
+.menu-home a:hover
+{
+    color: #f52657;
+}
+.menu-clictoys a:hover
+{
+    color: #f96a3c;
+}
+.menu-playmags a:hover
+{
+    color: #f9c234;
+}
+.menu-clickbuildingplan a:hover
+{
+    color: #2ece55;
+}
+.menu-playmagsbuildingplan a:hover
+{
+    color: #57c5f2;
+}
+.menu-aboutclick a:hover
+{
+    color: #b767ec;
+}
+.menu-aboutplaymags a:hover
+{
+    color: #aeb0b1;
+}
+.menu-contest a:hover
+{
+    color: #6096fc;
+}
+
+.navbar-toggle{
+    background: url('../img/icon-toggle.png') no-repeat center  !important;
+    background-color: yellow; 
+ 
+}
+
+
+.thum-left , .thum-right
+{
+    border:2px solid #28324E;
+    background-color: whitesmoke;
+ 
+}
+
+.menu-midle
+{
+    text-align: center;
+    margin-bottom: 20px;
+}
+.menu-midle a
+{
+    font-family: myFont;
+    font-size: 25px;
+    text-decoration: none;
+}
+
+
+.wslider
+    {
+        margin-bottom: 20px;
+    }
+.ws_playpause, .ws_pause
+{
+    display: none;
+}
+
+.buy-left
+{
+    background-color: #de142c;
+    color: white;
+    position: relative;
+    bottom: 105px;
+    left: 65px;
+}
+.buy-right
+{
+    background-color: #de142c;
+    color: white;
+    position: relative;
+    bottom: 105px;
+    left: 300px;
+}
+.buy-right:hover, .buy-left:hover
+{
+    color: #fff;
+    background-color: #BF1428;
+}
+.crossing-buy
+    {
+        font-size: 20px;
+    }
+.content-circle
+{
+    text-align: center;
+    font-family: myFont;
+    padding-left: 80px;
+}
+
+.build, .winner, .upload
+{
+    border-radius:50%;
+    padding: 30px;
+
+}
+.build
+{
+    border: 2px solid #f52657;
+    color: #f52657;
+}
+.build:after
+{
+    content: url(../img/building.png); 
+    position: absolute;
+    left: 85%;
+    bottom: 45%;
+    z-index: 999;
+    
+}
+
+.upload
+{
+    border: 2px solid #95e1ad;
+    color: #95e1ad;
+}
+.upload:after
+{
+    content: url(../img/building2.png); 
+    position: absolute;
+    left: 85%;
+    bottom: 45%;
+    z-index: 999;
+    
+}
+
+.winner
+{
+    border: 2px solid #f9c235;
+    color: #f9c235;
+}
+
+.menu-feature
+{
+    margin-top: -60px;
+}
+.product
+{
+    margin-top: -60px;
+}
+.special
+{
+    position: relative;
+    left: 25%;
+    z-index: 99;
+}
+
+.new
+{
+    background-color: green;
+    padding: 5px 5px;
+    text-align: center;
+    transform: rotate(45deg);
+    position: relative;
+    width: 120px;
+    left: 7px;
+    top: 4px;
+    color: white;
+    font-family: myFont;
+}
+.picvid
+    {
+        background-color: white;
+        margin-left: 30px !important;
+        margin-bottom: 20px;
+        padding: 10px;
+        font-family: myFont;
+    }
+.picvid-text
+{
+    text-align: center !important;
+}
+
+.picvid-icon
+{
+    padding: 0 !important;    
+}
+.about-logo
+{
+    margin: 0 auto;
+}
+
+.bplan p
+{
+    text-indent: 50px;
+    text-align: justify;
+    font-size: 16px;
+}
+
+.sow
+{
+    display: block !important;
+    transition-property: all;
+    transition-timing-function: ease-in-out;
+    transition-duration: 5s;
+}
+
+
+.scroll
+{
+    position: fixed;
+    z-index: 9999;
+    top: 0%;
+    width: 100%;
+    background-color: #efefef;
+    display: normal !important;
+      opacity: 1;
+      box-shadow: 0px 1px 10px #3f3f3f ;
+      padding-bottom: 8px;
+      left: 0%;
+      padding-left: 30px;
+}
+
+.map
+{
+    z-index: 1;
+}
+.fliying
+{
+        transition: 0.5s all ease-in-out;
+}
+.img-fliying
+{
+    position: fixed;
+    margin-top: -400px;
+    margin: 0 auto;
+    z-index: 1;
+    opacity: 0.2;
+}
+.fixed-bg {
+    background-image: url("../img/bawah-peta.png");
+    min-height: 800px;
+    background-attachment: fixed;
+    background-position:top;
+    background-repeat: no-repeat;
+    background-size: 70%;
+}

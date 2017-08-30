@@ -1,0 +1,90 @@
+.wmuSlider {
+    position: relative;
+    overflow: hidden;
+}
+.slide-grid {
+    width: 100%;
+    border: 1px solid #ddd;
+}
+.sub-cate, .slide-grid {
+    float: left;
+}
+.wmuSlider {
+    position: relative;
+    overflow: hidden;
+}
+article, aside, details, figcaption, figure, footer, header, hgroup, main, nav, section, summary {
+    display: block;
+}
+.banner-matter {
+}
+.wmuSlider .wmuSliderWrapper article img {
+    max-width: 100%;
+    width: auto;
+    height: auto;
+    display: block;
+}
+.banner-off {
+    padding: 6em 0em 6em 2em;
+}
+.banner-off h2 {
+    padding: 0em;
+    margin: 0;
+    font-size: 4.5em;
+    color: #01AFD1;
+    font-weight: 600;
+}
+.banner-off label {
+    font-size: 2em;
+    color: #323A45;
+    font-weight: 700;
+}
+.banner-off label b {
+    color: #F97E76;
+}
+b, strong {
+    font-weight: bold;
+}
+.banner-off p {
+    font-size: 1em;
+    color: #323A45;
+    margin: 0;
+    width: 90%;
+    padding: 0 0 2em;
+}
+span.on-get {
+    font-size: 1.1em;
+    color: #fff;
+    padding: 0.6em 0.8em;
+    background: #323A45;
+}
+ul.wmuSliderPagination {
+    padding: 0;
+}
+.wmuSliderPagination {
+    z-index: 2;
+    position: absolute;
+    right: 1%;
+    bottom: 0px;
+}
+.wmuSliderPagination li {
+    float: left;
+    margin: 0 8px 0 0;
+    list-style-type: none;
+}
+.wmuSliderPagination a {
+    display: block;
+    text-indent: -9999px;
+    background: #323A45;
+    height: 12px;
+    width: 12px;
+	margin-bottom: 10px;
+    border-radius: 30px;
+    -webkit-border-radius: 30px;
+    -moz-border-radius: 30px;
+    -o-border-radius: 30px;
+    -ms-border-radius: 30px;
+}
+.wmuSliderPagination a.wmuActive {
+    background: #989CA2;
+}

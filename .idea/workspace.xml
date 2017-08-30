@@ -1,0 +1,1749 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/application/modules/market/controllers/market.php" line="773" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="94541b93-296e-4bd4-baa0-75600be2ef90" name="Default" comment="" />
+    <ignored path="meeean.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="meeean" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="market_place.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application/modules/market_place/controllers/market_place.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1298">
+              <caret line="188" column="10" selection-start-line="188" selection-start-column="10" selection-end-line="188" selection-end-column="10" />
+              <folding>
+                <element signature="n#__construct#0;n#Market_place#0;n#!!top" expanded="false" />
+                <element signature="n#index#0;n#Market_place#0;n#!!top" expanded="false" />
+                <element signature="n#market_place_by_sub_category#0;n#Market_place#0;n#!!top" expanded="false" />
+                <element signature="n#market_memebrs#0;n#Market_place#0;n#!!top" expanded="false" />
+                <element signature="n#market_place_by_search_product#0;n#Market_place#0;n#!!top" expanded="false" />
+                <element signature="n#post_add#0;n#Market_place#0;n#!!top" expanded="false" />
+                <element signature="n#Product_detail#0;n#Market_place#0;n#!!top" expanded="false" />
+                <element signature="n#get_district#0;n#Market_place#0;n#!!top" expanded="false" />
+                <element signature="n#get_upazilla#0;n#Market_place#0;n#!!top" expanded="false" />
+                <element signature="n#product_search#0;n#Market_place#0;n#!!top" expanded="false" />
+                <element signature="n#product_cat_filter#0;n#Market_place#0;n#!!top" expanded="false" />
+                <element signature="n#product_sub_cat_filter#0;n#Market_place#0;n#!!top" expanded="false" />
+                <element signature="n#search_by_location#0;n#Market_place#0;n#!!top" expanded="false" />
+                <element signature="n#contact_us#0;n#Market_place#0;n#!!top" expanded="false" />
+                <element signature="n#contact_with_user#0;n#Market_place#0;n#!!top" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="market_place_model.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application/modules/market_place/models/market_place_model.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1870">
+              <caret line="239" column="39" selection-start-line="239" selection-start-column="20" selection-end-line="239" selection-end-column="39" />
+              <folding>
+                <element signature="n#total_viewers_count#0;n#Market_place_model#0;n#!!top" expanded="false" />
+                <element signature="n#viewers_count#0;n#Market_place_model#0;n#!!top" expanded="false" />
+                <element signature="n#market_category_with_sub_category#0;n#Market_place_model#0;n#!!top" expanded="false" />
+                <element signature="n#select_market_location#0;n#Market_place_model#0;n#!!top" expanded="false" />
+                <element signature="n#get_market_slider#0;n#Market_place_model#0;n#!!top" expanded="false" />
+                <element signature="n#select_market_category#0;n#Market_place_model#0;n#!!top" expanded="false" />
+                <element signature="n#select_market_cat#0;n#Market_place_model#0;n#!!top" expanded="false" />
+                <element signature="n#select_ad_by_sub_category#0;n#Market_place_model#0;n#!!top" expanded="false" />
+                <element signature="n#select_ad_by_category#0;n#Market_place_model#0;n#!!top" expanded="false" />
+                <element signature="n#market_place_description#0;n#Market_place_model#0;n#!!top" expanded="false" />
+                <element signature="n#search#0;n#Market_place_model#0;n#!!top" expanded="false" />
+                <element signature="n#market_place_description_pagination#0;n#Market_place_model#0;n#!!top" expanded="false" />
+                <element signature="n#market_place_description_pagination_all#0;n#Market_place_model#0;n#!!top" expanded="false" />
+                <element signature="n#get_all_top_product_by_keyword#0;n#Market_place_model#0;n#!!top" expanded="false" />
+                <element signature="n#get_all_bump_product_by_keyword#0;n#Market_place_model#0;n#!!top" expanded="false" />
+                <element signature="n#all_bump_settings#0;n#Market_place_model#0;n#!!top" expanded="false" />
+                <element signature="n#get_all_top_product#0;n#Market_place_model#0;n#!!top" expanded="false" />
+                <element signature="n#all_bump_product#0;n#Market_place_model#0;n#!!top" expanded="false" />
+                <element signature="n#update_bump_product#0;n#Market_place_model#0;n#!!top" expanded="false" />
+                <element signature="n#get_all_bump_product#0;n#Market_place_model#0;n#!!top" expanded="false" />
+                <element signature="n#market_place_description_by_search#0;n#Market_place_model#0;n#!!top" expanded="false" />
+                <element signature="n#market_place_description_by_search2#0;n#Market_place_model#0;n#!!top" expanded="false" />
+                <element signature="n#get_all_top_product_by_search#0;n#Market_place_model#0;n#!!top" expanded="false" />
+                <element signature="n#get_all_top_product_by_search2#0;n#Market_place_model#0;n#!!top" expanded="false" />
+                <element signature="n#get_all_bump_product_by_search#0;n#Market_place_model#0;n#!!top" expanded="false" />
+                <element signature="n#get_all_bump_product_by_search2#0;n#Market_place_model#0;n#!!top" expanded="false" />
+                <element signature="n#market_place_description_by_search_pagination#0;n#Market_place_model#0;n#!!top" expanded="false" />
+                <element signature="n#market_place_description_by_search_pagination2#0;n#Market_place_model#0;n#!!top" expanded="false" />
+                <element signature="n#select_all_cat#0;n#Market_place_model#0;n#!!top" expanded="false" />
+                <element signature="n#market_place_filter_by_cat#0;n#Market_place_model#0;n#!!top" expanded="false" />
+                <element signature="n#market_place_filter_by_cat_pagination#0;n#Market_place_model#0;n#!!top" expanded="false" />
+                <element signature="n#market_place_filter_by_cat_pagination2#0;n#Market_place_model#0;n#!!top" expanded="false" />
+                <element signature="n#get_all_top_product_by_category#0;n#Market_place_model#0;n#!!top" expanded="false" />
+                <element signature="n#get_all_top_product_by_category2#0;n#Market_place_model#0;n#!!top" expanded="false" />
+                <element signature="n#get_all_bump_product_by_category#0;n#Market_place_model#0;n#!!top" expanded="false" />
+                <element signature="n#get_all_bump_product_by_category2#0;n#Market_place_model#0;n#!!top" expanded="false" />
+                <element signature="n#market_place_filter_by_sub_cat#0;n#Market_place_model#0;n#!!top" expanded="false" />
+                <element signature="n#market_place_filter_by_sub_cat_pagination#0;n#Market_place_model#0;n#!!top" expanded="false" />
+                <element signature="n#get_all_top_product_by_subcategory#0;n#Market_place_model#0;n#!!top" expanded="false" />
+                <element signature="n#get_all_bump_product_by_subcategory#0;n#Market_place_model#0;n#!!top" expanded="false" />
+                <element signature="n#select_all_sub_cat#0;n#Market_place_model#0;n#!!top" expanded="false" />
+                <element signature="n#select_product#0;n#Market_place_model#0;n#!!top" expanded="false" />
+                <element signature="n#select_product_details_by_id#0;n#Market_place_model#0;n#!!top" expanded="false" />
+                <element signature="n#select_feature_product_3#0;n#Market_place_model#0;n#!!top" expanded="false" />
+                <element signature="n#select_slider_image#0;n#Market_place_model#0;n#!!top" expanded="false" />
+                <element signature="n#select_news_feed#0;n#Market_place_model#0;n#!!top" expanded="false" />
+                <element signature="n#select_advertise#0;n#Market_place_model#0;n#!!top" expanded="false" />
+                <element signature="n#select_related_product#0;n#Market_place_model#0;n#!!top" expanded="false" />
+                <element signature="n#select_description_market_place_id#0;n#Market_place_model#0;n#!!top" expanded="false" />
+                <element signature="n#members_details#0;n#Market_place_model#0;n#!!top" expanded="false" />
+                <element signature="n#members_detail_info#0;n#Market_place_model#0;n#!!top" expanded="false" />
+                <element signature="n#members_market_place_description#0;n#Market_place_model#0;n#!!top" expanded="false" />
+                <element signature="n#get_members_product#0;n#Market_place_model#0;n#!!top" expanded="false" />
+                <element signature="n#member_market_place_description_pagination_all#0;n#Market_place_model#0;n#!!top" expanded="false" />
+                <element signature="n#get_all_top_product_by_reg_id#0;n#Market_place_model#0;n#!!top" expanded="false" />
+                <element signature="n#get_all_bump_product_by_reg_id#0;n#Market_place_model#0;n#!!top" expanded="false" />
+                <element signature="n#select_product_by_location#0;n#Market_place_model#0;n#!!top" expanded="false" />
+                <element signature="n#select_product_by_location_pagination#0;n#Market_place_model#0;n#!!top" expanded="false" />
+                <element signature="n#get_all_top_product_by_location#0;n#Market_place_model#0;n#!!top" expanded="false" />
+                <element signature="n#get_all_bump_product_by_location#0;n#Market_place_model#0;n#!!top" expanded="false" />
+                <element signature="n#select_sub_images_by_id#0;n#Market_place_model#0;n#!!top" expanded="false" />
+                <element signature="n#get_sponsor#0;n#Market_place_model#0;n#!!top" expanded="false" />
+                <element signature="n#get_feature_product#0;n#Market_place_model#0;n#!!top" expanded="false" />
+                <element signature="n#insert_contact_us_data#0;n#Market_place_model#0;n#!!top" expanded="false" />
+                <element signature="n#get_counters#0;n#Market_place_model#0;n#!!top" expanded="false" />
+                <marker date="1502170708735" expanded="true" signature="1577:1771" placeholder="SELECT mc.*,... market_category" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="view_market_product.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application/modules/market_place/views/view_market_product.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="164">
+              <caret line="210" column="12" selection-start-line="210" selection-start-column="12" selection-end-line="210" selection-end-column="12" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="promote_ad.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/application/modules/market/views/promote_ad.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="169">
+              <caret line="333" column="30" selection-start-line="333" selection-start-column="23" selection-end-line="333" selection-end-column="30" />
+              <folding>
+                <marker date="1502020509705" expanded="true" signature="27303:27341" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="market.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application/modules/market/controllers/market.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="64">
+              <caret line="774" column="5" selection-start-line="742" selection-start-column="4" selection-end-line="774" selection-end-column="5" />
+              <folding>
+                <element signature="n#__construct#0;n#Market#0;n#!!top" expanded="false" />
+                <element signature="n#index#0;n#Market#0;n#!!top" expanded="false" />
+                <element signature="n#change_information#0;n#Market#0;n#!!top" expanded="false" />
+                <element signature="n#add_category#0;n#Market#0;n#!!top" expanded="false" />
+                <element signature="n#select_div#0;n#Market#0;n#!!top" expanded="false" />
+                <element signature="n#get_upazilla#0;n#Market#0;n#!!top" expanded="false" />
+                <element signature="n#insert_category#0;n#Market#0;n#!!top" expanded="false" />
+                <element signature="n#insert_sub_category#0;n#Market#0;n#!!top" expanded="false" />
+                <element signature="n#all_product#0;n#Market#0;n#!!top" expanded="false" />
+                <element signature="n#all_market_product#0;n#Market#0;n#!!top" expanded="false" />
+                <element signature="n#add_product#0;n#Market#0;n#!!top" expanded="false" />
+                <element signature="n#add_market_place_product#0;n#Market#0;n#!!top" expanded="false" />
+                <element signature="n#edit_product#0;n#Market#0;n#!!top" expanded="false" />
+                <element signature="n#edit_market_product#0;n#Market#0;n#!!top" expanded="false" />
+                <element signature="n#select_sub_category#0;n#Market#0;n#!!top" expanded="false" />
+                <element signature="n#update_product_details#0;n#Market#0;n#!!top" expanded="false" />
+                <element signature="n#image_details_modal#0;n#Market#0;n#!!top" expanded="false" />
+                <element signature="n#update_image#0;n#Market#0;n#!!top" expanded="false" />
+                <element signature="n#update_sub_image#0;n#Market#0;n#!!top" expanded="false" />
+                <element signature="n#sub_image_details_modal#0;n#Market#0;n#!!top" expanded="false" />
+                <element signature="n#update_market_product_details#0;n#Market#0;n#!!top" expanded="false" />
+                <element signature="n#delete_product#0;n#Market#0;n#!!top" expanded="false" />
+                <element signature="n#delete_market_product#0;n#Market#0;n#!!top" expanded="false" />
+                <element signature="n#insert_product#0;n#Market#0;n#!!top" expanded="false" />
+                <element signature="n#insert_product_marketplace#0;n#Market#0;n#!!top" expanded="false" />
+                <element signature="n#promote_ad#0;n#Market#0;n#!!top" expanded="false" />
+                <element signature="n#add_promote_add#0;n#Market#0;n#!!top" expanded="false" />
+                <element signature="n#watermark_image#0;n#Market#0;n#!!top" expanded="false" />
+                <element signature="n#watermark#0;n#Market#0;n#!!top" expanded="false" />
+                <element signature="n#overlay#0;n#Market#0;n#!!top" expanded="false" />
+                <element signature="n#resize#0;n#Market#0;n#!!top" expanded="false" />
+                <element signature="n#set_upload_options#0;n#Market#0;n#!!top" expanded="false" />
+                <element signature="n#change_password#0;n#Market#0;n#!!top" expanded="false" />
+                <element signature="n#update_product#0;n#Market#0;n#!!top" expanded="false" />
+                <element signature="n#all_company#0;n#Market#0;n#!!top" expanded="false" />
+                <element signature="n#logo#0;n#Market#0;n#!!top" expanded="false" />
+                <marker date="1502018469191" expanded="true" signature="10948:10976" placeholder="..." />
+                <marker date="1502018469191" expanded="true" signature="12340:12368" placeholder="..." />
+                <marker date="1502018469191" expanded="true" signature="39208:39266" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="routes.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application/config/routes.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="396">
+              <caret line="38" column="2" selection-start-line="38" selection-start-column="2" selection-end-line="38" selection-end-column="2" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="market_model.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application/modules/market/models/market_model.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="383">
+              <caret line="166" column="0" selection-start-line="166" selection-start-column="0" selection-end-line="166" selection-end-column="0" />
+              <folding>
+                <element signature="n#__construct#0;n#Market_model#0;n#!!top" expanded="false" />
+                <element signature="n#get_user_data#0;n#Market_model#0;n#!!top" expanded="false" />
+                <element signature="n#update_profile_info#0;n#Market_model#0;n#!!top" expanded="false" />
+                <element signature="n#get_all_product#0;n#Market_model#0;n#!!top" expanded="false" />
+                <element signature="n#get_members_info_by_reg_id#0;n#Market_model#0;n#!!top" expanded="false" />
+                <element signature="n#get_district#0;n#Market_model#0;n#!!top" expanded="false" />
+                <element signature="n#get_all_district#0;n#Market_model#0;n#!!top" expanded="false" />
+                <element signature="n#get_all_market_product#0;n#Market_model#0;n#!!top" expanded="false" />
+                <element signature="n#get_image_table_data#0;n#Market_model#0;n#!!top" expanded="false" />
+                <element signature="n#get_image_table_data_market#0;n#Market_model#0;n#!!top" expanded="false" />
+                <element signature="n#get_product_details#0;n#Market_model#0;n#!!top" expanded="false" />
+                <element signature="n#get_market_product_details#0;n#Market_model#0;n#!!top" expanded="false" />
+                <element signature="n#get_product_details_w_image#0;n#Market_model#0;n#!!top" expanded="false" />
+                <element signature="n#get_market_product_details_w_image#0;n#Market_model#0;n#!!top" expanded="false" />
+                <element signature="n#update_product_status#0;n#Market_model#0;n#!!top" expanded="false" />
+                <element signature="n#get_all_category#0;n#Market_model#0;n#!!top" expanded="false" />
+                <element signature="n#get_all_category2#0;n#Market_model#0;n#!!top" expanded="false" />
+                <element signature="n#get_sub_cat_name#0;n#Market_model#0;n#!!top" expanded="false" />
+                <element signature="n#check_top_ad#0;n#Market_model#0;n#!!top" expanded="false" />
+                <element signature="n#check_bump_ad#0;n#Market_model#0;n#!!top" expanded="false" />
+                <element signature="n#insert_new_product#0;n#Market_model#0;n#!!top" expanded="false" />
+                <element signature="n#insert_new_market_product#0;n#Market_model#0;n#!!top" expanded="false" />
+                <element signature="n#insert_product_images#0;n#Market_model#0;n#!!top" expanded="false" />
+                <element signature="n#insert_market_place_images#0;n#Market_model#0;n#!!top" expanded="false" />
+                <element signature="n#password_change#0;n#Market_model#0;n#!!top" expanded="false" />
+                <element signature="n#delete_product_sub_images#0;n#Market_model#0;n#!!top" expanded="false" />
+                <element signature="n#delete_market_product_sub_images#0;n#Market_model#0;n#!!top" expanded="false" />
+                <element signature="n#delete_product_confirm#0;n#Market_model#0;n#!!top" expanded="false" />
+                <element signature="n#delete_market_product_confirm#0;n#Market_model#0;n#!!top" expanded="false" />
+                <element signature="n#update_new_product#0;n#Market_model#0;n#!!top" expanded="false" />
+                <element signature="n#update_new_market_product#0;n#Market_model#0;n#!!top" expanded="false" />
+                <element signature="n#get_sub_category#0;n#Market_model#0;n#!!top" expanded="false" />
+                <element signature="n#get_specific_product#0;n#Market_model#0;n#!!top" expanded="false" />
+                <element signature="n#get_all_location#0;n#Market_model#0;n#!!top" expanded="false" />
+                <element signature="n#image_details#0;n#Market_model#0;n#!!top" expanded="false" />
+                <element signature="n#sub_image_details#0;n#Market_model#0;n#!!top" expanded="false" />
+                <element signature="n#update_main_image#0;n#Market_model#0;n#!!top" expanded="false" />
+                <element signature="n#update_sub_image#0;n#Market_model#0;n#!!top" expanded="false" />
+                <element signature="n#delete_sub_image#0;n#Market_model#0;n#!!top" expanded="false" />
+                <element signature="n#insert_promote#0;n#Market_model#0;n#!!top" expanded="false" />
+                <element signature="e#9559#9626#0#PHP" expanded="false" />
+                <element signature="n#get_top_ad_settings_info#0;n#Market_model#0;n#!!top" expanded="false" />
+                <element signature="n#get_bump_ad_settings_info#0;n#Market_model#0;n#!!top" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/application/config/config.php" />
+        <option value="$PROJECT_DIR$/application/modules/market_place/views/market_place_sub_category.php" />
+        <option value="$PROJECT_DIR$/application/modules/market/models/market_model.php" />
+        <option value="$PROJECT_DIR$/application/modules/market/views/review_ad.php" />
+        <option value="$PROJECT_DIR$/application/modules/market/controllers/market.php" />
+        <option value="$PROJECT_DIR$/application/modules/market/views/market_all.php" />
+        <option value="$PROJECT_DIR$/application/modules/market/views/promote_ad.php" />
+        <option value="$PROJECT_DIR$/application/modules/market_place/models/market_place_model.php" />
+        <option value="$PROJECT_DIR$/application/modules/market_place/controllers/market_place.php" />
+        <option value="$PROJECT_DIR$/application/modules/market_place/views/view_market_product.php" />
+        <option value="$PROJECT_DIR$/application/config/routes.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsBuildToolPackageJson" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="width" value="1370" />
+    <option name="height" value="728" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="meeean" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="meeean" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="meeean" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="meeean" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="meeean" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="meeean" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="meeean" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="meeean" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="meeean" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="meeean" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="meeean" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="application" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="meeean" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="meeean" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="application" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="modules" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="meeean" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="meeean" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="application" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="modules" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="market_place" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="meeean" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="meeean" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="application" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="modules" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="market_place" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="market_content" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="meeean" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="meeean" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="application" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="modules" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="market_place" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="models" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="meeean" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="meeean" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="application" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="modules" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="market_place" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="controllers" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="meeean" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="meeean" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="application" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="config" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ors" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\meeean\application\modules\market\views" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="94541b93-296e-4bd4-baa0-75600be2ef90" name="Default" comment="" />
+      <created>1501743777769</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1501743777769</updated>
+      <workItem from="1501743779713" duration="5125000" />
+      <workItem from="1501757218615" duration="4286000" />
+      <workItem from="1501998506536" duration="6228000" />
+      <workItem from="1502007352425" duration="10017000" />
+      <workItem from="1502083074302" duration="7919000" />
+      <workItem from="1502169798372" duration="3126000" />
+      <workItem from="1503380430081" duration="2015000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="38716000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="0" width="1370" height="728" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1961832" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/application/modules/market_place/models/market_place_model.php</url>
+          <line>16</line>
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/application/modules/market_place/models/market_place_model.php</url>
+          <line>1025</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/application/modules/market_place/controllers/market_place.php</url>
+          <line>350</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/application/modules/market/controllers/market.php</url>
+          <line>909</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="4" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/application/modules/market_place/controllers/market_place.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1298">
+          <caret line="188" column="10" selection-start-line="188" selection-start-column="10" selection-end-line="188" selection-end-column="10" />
+          <folding>
+            <element signature="n#__construct#0;n#Market_place#0;n#!!top" expanded="false" />
+            <element signature="n#index#0;n#Market_place#0;n#!!top" expanded="false" />
+            <element signature="n#market_place_by_sub_category#0;n#Market_place#0;n#!!top" expanded="false" />
+            <element signature="n#market_memebrs#0;n#Market_place#0;n#!!top" expanded="false" />
+            <element signature="n#market_place_by_search_product#0;n#Market_place#0;n#!!top" expanded="false" />
+            <element signature="n#post_add#0;n#Market_place#0;n#!!top" expanded="false" />
+            <element signature="n#Product_detail#0;n#Market_place#0;n#!!top" expanded="false" />
+            <element signature="n#get_district#0;n#Market_place#0;n#!!top" expanded="false" />
+            <element signature="n#get_upazilla#0;n#Market_place#0;n#!!top" expanded="false" />
+            <element signature="n#product_search#0;n#Market_place#0;n#!!top" expanded="false" />
+            <element signature="n#product_cat_filter#0;n#Market_place#0;n#!!top" expanded="false" />
+            <element signature="n#product_sub_cat_filter#0;n#Market_place#0;n#!!top" expanded="false" />
+            <element signature="n#search_by_location#0;n#Market_place#0;n#!!top" expanded="false" />
+            <element signature="n#contact_us#0;n#Market_place#0;n#!!top" expanded="false" />
+            <element signature="n#contact_with_user#0;n#Market_place#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/modules/market_place/models/market_place_model.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1870">
+          <caret line="239" column="39" selection-start-line="239" selection-start-column="20" selection-end-line="239" selection-end-column="39" />
+          <folding>
+            <element signature="n#total_viewers_count#0;n#Market_place_model#0;n#!!top" expanded="false" />
+            <element signature="n#viewers_count#0;n#Market_place_model#0;n#!!top" expanded="false" />
+            <element signature="n#market_category_with_sub_category#0;n#Market_place_model#0;n#!!top" expanded="false" />
+            <element signature="n#select_market_location#0;n#Market_place_model#0;n#!!top" expanded="false" />
+            <element signature="n#get_market_slider#0;n#Market_place_model#0;n#!!top" expanded="false" />
+            <element signature="n#select_market_category#0;n#Market_place_model#0;n#!!top" expanded="false" />
+            <element signature="n#select_market_cat#0;n#Market_place_model#0;n#!!top" expanded="false" />
+            <element signature="n#select_ad_by_sub_category#0;n#Market_place_model#0;n#!!top" expanded="false" />
+            <element signature="n#select_ad_by_category#0;n#Market_place_model#0;n#!!top" expanded="false" />
+            <element signature="n#market_place_description#0;n#Market_place_model#0;n#!!top" expanded="false" />
+            <element signature="n#search#0;n#Market_place_model#0;n#!!top" expanded="false" />
+            <element signature="n#market_place_description_pagination#0;n#Market_place_model#0;n#!!top" expanded="false" />
+            <element signature="n#market_place_description_pagination_all#0;n#Market_place_model#0;n#!!top" expanded="false" />
+            <element signature="n#get_all_top_product_by_keyword#0;n#Market_place_model#0;n#!!top" expanded="false" />
+            <element signature="n#get_all_bump_product_by_keyword#0;n#Market_place_model#0;n#!!top" expanded="false" />
+            <element signature="n#all_bump_settings#0;n#Market_place_model#0;n#!!top" expanded="false" />
+            <element signature="n#get_all_top_product#0;n#Market_place_model#0;n#!!top" expanded="false" />
+            <element signature="n#all_bump_product#0;n#Market_place_model#0;n#!!top" expanded="false" />
+            <element signature="n#update_bump_product#0;n#Market_place_model#0;n#!!top" expanded="false" />
+            <element signature="n#get_all_bump_product#0;n#Market_place_model#0;n#!!top" expanded="false" />
+            <element signature="n#market_place_description_by_search#0;n#Market_place_model#0;n#!!top" expanded="false" />
+            <element signature="n#market_place_description_by_search2#0;n#Market_place_model#0;n#!!top" expanded="false" />
+            <element signature="n#get_all_top_product_by_search#0;n#Market_place_model#0;n#!!top" expanded="false" />
+            <element signature="n#get_all_top_product_by_search2#0;n#Market_place_model#0;n#!!top" expanded="false" />
+            <element signature="n#get_all_bump_product_by_search#0;n#Market_place_model#0;n#!!top" expanded="false" />
+            <element signature="n#get_all_bump_product_by_search2#0;n#Market_place_model#0;n#!!top" expanded="false" />
+            <element signature="n#market_place_description_by_search_pagination#0;n#Market_place_model#0;n#!!top" expanded="false" />
+            <element signature="n#market_place_description_by_search_pagination2#0;n#Market_place_model#0;n#!!top" expanded="false" />
+            <element signature="n#select_all_cat#0;n#Market_place_model#0;n#!!top" expanded="false" />
+            <element signature="n#market_place_filter_by_cat#0;n#Market_place_model#0;n#!!top" expanded="false" />
+            <element signature="n#market_place_filter_by_cat_pagination#0;n#Market_place_model#0;n#!!top" expanded="false" />
+            <element signature="n#market_place_filter_by_cat_pagination2#0;n#Market_place_model#0;n#!!top" expanded="false" />
+            <element signature="n#get_all_top_product_by_category#0;n#Market_place_model#0;n#!!top" expanded="false" />
+            <element signature="n#get_all_top_product_by_category2#0;n#Market_place_model#0;n#!!top" expanded="false" />
+            <element signature="n#get_all_bump_product_by_category#0;n#Market_place_model#0;n#!!top" expanded="false" />
+            <element signature="n#get_all_bump_product_by_category2#0;n#Market_place_model#0;n#!!top" expanded="false" />
+            <element signature="n#market_place_filter_by_sub_cat#0;n#Market_place_model#0;n#!!top" expanded="false" />
+            <element signature="n#market_place_filter_by_sub_cat_pagination#0;n#Market_place_model#0;n#!!top" expanded="false" />
+            <element signature="n#get_all_top_product_by_subcategory#0;n#Market_place_model#0;n#!!top" expanded="false" />
+            <element signature="n#get_all_bump_product_by_subcategory#0;n#Market_place_model#0;n#!!top" expanded="false" />
+            <element signature="n#select_all_sub_cat#0;n#Market_place_model#0;n#!!top" expanded="false" />
+            <element signature="n#select_product#0;n#Market_place_model#0;n#!!top" expanded="false" />
+            <element signature="n#select_product_details_by_id#0;n#Market_place_model#0;n#!!top" expanded="false" />
+            <element signature="n#select_feature_product_3#0;n#Market_place_model#0;n#!!top" expanded="false" />
+            <element signature="n#select_slider_image#0;n#Market_place_model#0;n#!!top" expanded="false" />
+            <element signature="n#select_news_feed#0;n#Market_place_model#0;n#!!top" expanded="false" />
+            <element signature="n#select_advertise#0;n#Market_place_model#0;n#!!top" expanded="false" />
+            <element signature="n#select_related_product#0;n#Market_place_model#0;n#!!top" expanded="false" />
+            <element signature="n#select_description_market_place_id#0;n#Market_place_model#0;n#!!top" expanded="false" />
+            <element signature="n#members_details#0;n#Market_place_model#0;n#!!top" expanded="false" />
+            <element signature="n#members_detail_info#0;n#Market_place_model#0;n#!!top" expanded="false" />
+            <element signature="n#members_market_place_description#0;n#Market_place_model#0;n#!!top" expanded="false" />
+            <element signature="n#get_members_product#0;n#Market_place_model#0;n#!!top" expanded="false" />
+            <element signature="n#member_market_place_description_pagination_all#0;n#Market_place_model#0;n#!!top" expanded="false" />
+            <element signature="n#get_all_top_product_by_reg_id#0;n#Market_place_model#0;n#!!top" expanded="false" />
+            <element signature="n#get_all_bump_product_by_reg_id#0;n#Market_place_model#0;n#!!top" expanded="false" />
+            <element signature="n#select_product_by_location#0;n#Market_place_model#0;n#!!top" expanded="false" />
+            <element signature="n#select_product_by_location_pagination#0;n#Market_place_model#0;n#!!top" expanded="false" />
+            <element signature="n#get_all_top_product_by_location#0;n#Market_place_model#0;n#!!top" expanded="false" />
+            <element signature="n#get_all_bump_product_by_location#0;n#Market_place_model#0;n#!!top" expanded="false" />
+            <element signature="n#select_sub_images_by_id#0;n#Market_place_model#0;n#!!top" expanded="false" />
+            <element signature="n#get_sponsor#0;n#Market_place_model#0;n#!!top" expanded="false" />
+            <element signature="n#get_feature_product#0;n#Market_place_model#0;n#!!top" expanded="false" />
+            <element signature="n#insert_contact_us_data#0;n#Market_place_model#0;n#!!top" expanded="false" />
+            <element signature="n#get_counters#0;n#Market_place_model#0;n#!!top" expanded="false" />
+            <marker date="1502170708735" expanded="true" signature="1577:1771" placeholder="SELECT mc.*,... market_category" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/modules/market_place/views/view_market_product.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/modules/market/models/market_model.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1100">
+          <caret line="177" column="48" selection-start-line="177" selection-start-column="48" selection-end-line="177" selection-end-column="48" />
+          <folding>
+            <element signature="n#__construct#0;n#Market_model#0;n#!!top" expanded="false" />
+            <element signature="n#get_user_data#0;n#Market_model#0;n#!!top" expanded="false" />
+            <element signature="n#update_profile_info#0;n#Market_model#0;n#!!top" expanded="false" />
+            <element signature="n#get_all_product#0;n#Market_model#0;n#!!top" expanded="false" />
+            <element signature="n#get_members_info_by_reg_id#0;n#Market_model#0;n#!!top" expanded="false" />
+            <element signature="n#get_district#0;n#Market_model#0;n#!!top" expanded="false" />
+            <element signature="n#get_all_district#0;n#Market_model#0;n#!!top" expanded="false" />
+            <element signature="n#get_all_market_product#0;n#Market_model#0;n#!!top" expanded="false" />
+            <element signature="n#get_image_table_data#0;n#Market_model#0;n#!!top" expanded="false" />
+            <element signature="n#get_image_table_data_market#0;n#Market_model#0;n#!!top" expanded="false" />
+            <element signature="n#get_product_details#0;n#Market_model#0;n#!!top" expanded="false" />
+            <element signature="n#get_market_product_details#0;n#Market_model#0;n#!!top" expanded="false" />
+            <element signature="n#get_product_details_w_image#0;n#Market_model#0;n#!!top" expanded="false" />
+            <element signature="n#get_market_product_details_w_image#0;n#Market_model#0;n#!!top" expanded="false" />
+            <element signature="n#update_product_status#0;n#Market_model#0;n#!!top" expanded="false" />
+            <element signature="n#get_all_category#0;n#Market_model#0;n#!!top" expanded="false" />
+            <element signature="n#get_all_category2#0;n#Market_model#0;n#!!top" expanded="false" />
+            <element signature="n#get_sub_cat_name#0;n#Market_model#0;n#!!top" expanded="false" />
+            <element signature="n#check_top_ad#0;n#Market_model#0;n#!!top" expanded="false" />
+            <element signature="n#check_bump_ad#0;n#Market_model#0;n#!!top" expanded="false" />
+            <element signature="n#insert_new_product#0;n#Market_model#0;n#!!top" expanded="false" />
+            <element signature="n#insert_new_market_product#0;n#Market_model#0;n#!!top" expanded="false" />
+            <element signature="n#insert_product_images#0;n#Market_model#0;n#!!top" expanded="false" />
+            <element signature="n#insert_market_place_images#0;n#Market_model#0;n#!!top" expanded="false" />
+            <element signature="n#password_change#0;n#Market_model#0;n#!!top" expanded="false" />
+            <element signature="n#delete_product_sub_images#0;n#Market_model#0;n#!!top" expanded="false" />
+            <element signature="n#delete_market_product_sub_images#0;n#Market_model#0;n#!!top" expanded="false" />
+            <element signature="n#delete_product_confirm#0;n#Market_model#0;n#!!top" expanded="false" />
+            <element signature="n#delete_market_product_confirm#0;n#Market_model#0;n#!!top" expanded="false" />
+            <element signature="n#update_new_product#0;n#Market_model#0;n#!!top" expanded="false" />
+            <element signature="n#update_new_market_product#0;n#Market_model#0;n#!!top" expanded="false" />
+            <element signature="n#get_sub_category#0;n#Market_model#0;n#!!top" expanded="false" />
+            <element signature="n#get_specific_product#0;n#Market_model#0;n#!!top" expanded="false" />
+            <element signature="n#get_all_location#0;n#Market_model#0;n#!!top" expanded="false" />
+            <element signature="n#image_details#0;n#Market_model#0;n#!!top" expanded="false" />
+            <element signature="n#sub_image_details#0;n#Market_model#0;n#!!top" expanded="false" />
+            <element signature="n#update_main_image#0;n#Market_model#0;n#!!top" expanded="false" />
+            <element signature="n#update_sub_image#0;n#Market_model#0;n#!!top" expanded="false" />
+            <element signature="n#delete_sub_image#0;n#Market_model#0;n#!!top" expanded="false" />
+            <element signature="n#insert_promote#0;n#Market_model#0;n#!!top" expanded="false" />
+            <element signature="e#9559#9626#0#PHP" expanded="false" />
+            <element signature="n#get_top_ad_settings_info#0;n#Market_model#0;n#!!top" expanded="false" />
+            <element signature="n#get_bump_ad_settings_info#0;n#Market_model#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/modules/market_place/controllers/market_place.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#__construct#0;n#Market_place#0;n#!!top" expanded="false" />
+            <element signature="n#index#0;n#Market_place#0;n#!!top" expanded="false" />
+            <element signature="n#market_place_by_sub_category#0;n#Market_place#0;n#!!top" expanded="false" />
+            <element signature="n#market_memebrs#0;n#Market_place#0;n#!!top" expanded="false" />
+            <element signature="n#market_place_by_search_product#0;n#Market_place#0;n#!!top" expanded="false" />
+            <element signature="n#post_add#0;n#Market_place#0;n#!!top" expanded="false" />
+            <element signature="n#Product_detail#0;n#Market_place#0;n#!!top" expanded="false" />
+            <element signature="n#get_district#0;n#Market_place#0;n#!!top" expanded="false" />
+            <element signature="n#get_upazilla#0;n#Market_place#0;n#!!top" expanded="false" />
+            <element signature="n#product_search#0;n#Market_place#0;n#!!top" expanded="false" />
+            <element signature="n#product_cat_filter#0;n#Market_place#0;n#!!top" expanded="false" />
+            <element signature="n#product_sub_cat_filter#0;n#Market_place#0;n#!!top" expanded="false" />
+            <element signature="n#search_by_location#0;n#Market_place#0;n#!!top" expanded="false" />
+            <element signature="n#contact_us#0;n#Market_place#0;n#!!top" expanded="false" />
+            <element signature="n#contact_with_user#0;n#Market_place#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/modules/market_place/models/market_place_model.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1584">
+          <caret line="226" column="32" selection-start-line="226" selection-start-column="32" selection-end-line="226" selection-end-column="32" />
+          <folding>
+            <element signature="n#total_viewers_count#0;n#Market_place_model#0;n#!!top" expanded="false" />
+            <element signature="n#viewers_count#0;n#Market_place_model#0;n#!!top" expanded="false" />
+            <element signature="n#market_category_with_sub_category#0;n#Market_place_model#0;n#!!top" expanded="false" />
+            <element signature="n#select_market_location#0;n#Market_place_model#0;n#!!top" expanded="false" />
+            <element signature="n#get_market_slider#0;n#Market_place_model#0;n#!!top" expanded="false" />
+            <element signature="n#select_market_category#0;n#Market_place_model#0;n#!!top" expanded="false" />
+            <element signature="n#select_market_cat#0;n#Market_place_model#0;n#!!top" expanded="false" />
+            <element signature="n#select_ad_by_sub_category#0;n#Market_place_model#0;n#!!top" expanded="false" />
+            <element signature="n#select_ad_by_category#0;n#Market_place_model#0;n#!!top" expanded="false" />
+            <element signature="n#market_place_description#0;n#Market_place_model#0;n#!!top" expanded="false" />
+            <element signature="n#search#0;n#Market_place_model#0;n#!!top" expanded="false" />
+            <element signature="n#market_place_description_pagination#0;n#Market_place_model#0;n#!!top" expanded="false" />
+            <element signature="n#market_place_description_pagination_all#0;n#Market_place_model#0;n#!!top" expanded="false" />
+            <element signature="n#get_all_top_product_by_keyword#0;n#Market_place_model#0;n#!!top" expanded="false" />
+            <element signature="n#get_all_bump_product_by_keyword#0;n#Market_place_model#0;n#!!top" expanded="false" />
+            <element signature="n#all_bump_settings#0;n#Market_place_model#0;n#!!top" expanded="false" />
+            <element signature="n#get_all_top_product#0;n#Market_place_model#0;n#!!top" expanded="false" />
+            <element signature="n#all_bump_product#0;n#Market_place_model#0;n#!!top" expanded="false" />
+            <element signature="n#update_bump_product#0;n#Market_place_model#0;n#!!top" expanded="false" />
+            <element signature="n#get_all_bump_product#0;n#Market_place_model#0;n#!!top" expanded="false" />
+            <element signature="n#market_place_description_by_search#0;n#Market_place_model#0;n#!!top" expanded="false" />
+            <element signature="n#market_place_description_by_search2#0;n#Market_place_model#0;n#!!top" expanded="false" />
+            <element signature="n#get_all_top_product_by_search#0;n#Market_place_model#0;n#!!top" expanded="false" />
+            <element signature="n#get_all_top_product_by_search2#0;n#Market_place_model#0;n#!!top" expanded="false" />
+            <element signature="n#get_all_bump_product_by_search#0;n#Market_place_model#0;n#!!top" expanded="false" />
+            <element signature="n#get_all_bump_product_by_search2#0;n#Market_place_model#0;n#!!top" expanded="false" />
+            <element signature="n#market_place_description_by_search_pagination#0;n#Market_place_model#0;n#!!top" expanded="false" />
+            <element signature="n#market_place_description_by_search_pagination2#0;n#Market_place_model#0;n#!!top" expanded="false" />
+            <element signature="n#select_all_cat#0;n#Market_place_model#0;n#!!top" expanded="false" />
+            <element signature="n#market_place_filter_by_cat#0;n#Market_place_model#0;n#!!top" expanded="false" />
+            <element signature="n#market_place_filter_by_cat_pagination#0;n#Market_place_model#0;n#!!top" expanded="false" />
+            <element signature="n#market_place_filter_by_cat_pagination2#0;n#Market_place_model#0;n#!!top" expanded="false" />
+            <element signature="n#get_all_top_product_by_category#0;n#Market_place_model#0;n#!!top" expanded="false" />
+            <element signature="n#get_all_top_product_by_category2#0;n#Market_place_model#0;n#!!top" expanded="false" />
+            <element signature="n#get_all_bump_product_by_category#0;n#Market_place_model#0;n#!!top" expanded="false" />
+            <element signature="n#get_all_bump_product_by_category2#0;n#Market_place_model#0;n#!!top" expanded="false" />
+            <element signature="n#market_place_filter_by_sub_cat#0;n#Market_place_model#0;n#!!top" expanded="false" />
+            <element signature="n#market_place_filter_by_sub_cat_pagination#0;n#Market_place_model#0;n#!!top" expanded="false" />
+            <element signature="n#get_all_top_product_by_subcategory#0;n#Market_place_model#0;n#!!top" expanded="false" />
+            <element signature="n#get_all_bump_product_by_subcategory#0;n#Market_place_model#0;n#!!top" expanded="false" />
+            <element signature="n#select_all_sub_cat#0;n#Market_place_model#0;n#!!top" expanded="false" />
+            <element signature="n#select_product#0;n#Market_place_model#0;n#!!top" expanded="false" />
+            <element signature="n#select_product_details_by_id#0;n#Market_place_model#0;n#!!top" expanded="false" />
+            <element signature="n#select_feature_product_3#0;n#Market_place_model#0;n#!!top" expanded="false" />
+            <element signature="n#select_slider_image#0;n#Market_place_model#0;n#!!top" expanded="false" />
+            <element signature="n#select_news_feed#0;n#Market_place_model#0;n#!!top" expanded="false" />
+            <element signature="n#select_advertise#0;n#Market_place_model#0;n#!!top" expanded="false" />
+            <element signature="n#select_related_product#0;n#Market_place_model#0;n#!!top" expanded="false" />
+            <element signature="n#select_description_market_place_id#0;n#Market_place_model#0;n#!!top" expanded="false" />
+            <element signature="n#members_details#0;n#Market_place_model#0;n#!!top" expanded="false" />
+            <element signature="n#members_detail_info#0;n#Market_place_model#0;n#!!top" expanded="false" />
+            <element signature="n#members_market_place_description#0;n#Market_place_model#0;n#!!top" expanded="false" />
+            <element signature="n#get_members_product#0;n#Market_place_model#0;n#!!top" expanded="false" />
+            <element signature="n#member_market_place_description_pagination_all#0;n#Market_place_model#0;n#!!top" expanded="false" />
+            <element signature="n#get_all_top_product_by_reg_id#0;n#Market_place_model#0;n#!!top" expanded="false" />
+            <element signature="n#get_all_bump_product_by_reg_id#0;n#Market_place_model#0;n#!!top" expanded="false" />
+            <element signature="n#select_product_by_location#0;n#Market_place_model#0;n#!!top" expanded="false" />
+            <element signature="n#select_product_by_location_pagination#0;n#Market_place_model#0;n#!!top" expanded="false" />
+            <element signature="n#get_all_top_product_by_location#0;n#Market_place_model#0;n#!!top" expanded="false" />
+            <element signature="n#get_all_bump_product_by_location#0;n#Market_place_model#0;n#!!top" expanded="false" />
+            <element signature="n#select_sub_images_by_id#0;n#Market_place_model#0;n#!!top" expanded="false" />
+            <element signature="n#get_sponsor#0;n#Market_place_model#0;n#!!top" expanded="false" />
+            <element signature="n#get_feature_product#0;n#Market_place_model#0;n#!!top" expanded="false" />
+            <element signature="n#insert_contact_us_data#0;n#Market_place_model#0;n#!!top" expanded="false" />
+            <element signature="n#get_counters#0;n#Market_place_model#0;n#!!top" expanded="false" />
+            <marker date="1502170708735" expanded="true" signature="1577:1771" placeholder="SELECT mc.*,... market_category" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/modules/market_place/views/view_market_product.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4422">
+          <caret line="201" column="32" selection-start-line="201" selection-start-column="32" selection-end-line="201" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/modules/market/models/market_model.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1100">
+          <caret line="177" column="48" selection-start-line="177" selection-start-column="48" selection-end-line="177" selection-end-column="48" />
+          <folding>
+            <element signature="n#__construct#0;n#Market_model#0;n#!!top" expanded="false" />
+            <element signature="n#get_user_data#0;n#Market_model#0;n#!!top" expanded="false" />
+            <element signature="n#update_profile_info#0;n#Market_model#0;n#!!top" expanded="false" />
+            <element signature="n#get_all_product#0;n#Market_model#0;n#!!top" expanded="false" />
+            <element signature="n#get_members_info_by_reg_id#0;n#Market_model#0;n#!!top" expanded="false" />
+            <element signature="n#get_district#0;n#Market_model#0;n#!!top" expanded="false" />
+            <element signature="n#get_all_district#0;n#Market_model#0;n#!!top" expanded="false" />
+            <element signature="n#get_all_market_product#0;n#Market_model#0;n#!!top" expanded="false" />
+            <element signature="n#get_image_table_data#0;n#Market_model#0;n#!!top" expanded="false" />
+            <element signature="n#get_image_table_data_market#0;n#Market_model#0;n#!!top" expanded="false" />
+            <element signature="n#get_product_details#0;n#Market_model#0;n#!!top" expanded="false" />
+            <element signature="n#get_market_product_details#0;n#Market_model#0;n#!!top" expanded="false" />
+            <element signature="n#get_product_details_w_image#0;n#Market_model#0;n#!!top" expanded="false" />
+            <element signature="n#get_market_product_details_w_image#0;n#Market_model#0;n#!!top" expanded="false" />
+            <element signature="n#update_product_status#0;n#Market_model#0;n#!!top" expanded="false" />
+            <element signature="n#get_all_category#0;n#Market_model#0;n#!!top" expanded="false" />
+            <element signature="n#get_all_category2#0;n#Market_model#0;n#!!top" expanded="false" />
+            <element signature="n#get_sub_cat_name#0;n#Market_model#0;n#!!top" expanded="false" />
+            <element signature="n#check_top_ad#0;n#Market_model#0;n#!!top" expanded="false" />
+            <element signature="n#check_bump_ad#0;n#Market_model#0;n#!!top" expanded="false" />
+            <element signature="n#insert_new_product#0;n#Market_model#0;n#!!top" expanded="false" />
+            <element signature="n#insert_new_market_product#0;n#Market_model#0;n#!!top" expanded="false" />
+            <element signature="n#insert_product_images#0;n#Market_model#0;n#!!top" expanded="false" />
+            <element signature="n#insert_market_place_images#0;n#Market_model#0;n#!!top" expanded="false" />
+            <element signature="n#password_change#0;n#Market_model#0;n#!!top" expanded="false" />
+            <element signature="n#delete_product_sub_images#0;n#Market_model#0;n#!!top" expanded="false" />
+            <element signature="n#delete_market_product_sub_images#0;n#Market_model#0;n#!!top" expanded="false" />
+            <element signature="n#delete_product_confirm#0;n#Market_model#0;n#!!top" expanded="false" />
+            <element signature="n#delete_market_product_confirm#0;n#Market_model#0;n#!!top" expanded="false" />
+            <element signature="n#update_new_product#0;n#Market_model#0;n#!!top" expanded="false" />
+            <element signature="n#update_new_market_product#0;n#Market_model#0;n#!!top" expanded="false" />
+            <element signature="n#get_sub_category#0;n#Market_model#0;n#!!top" expanded="false" />
+            <element signature="n#get_specific_product#0;n#Market_model#0;n#!!top" expanded="false" />
+            <element signature="n#get_all_location#0;n#Market_model#0;n#!!top" expanded="false" />
+            <element signature="n#image_details#0;n#Market_model#0;n#!!top" expanded="false" />
+            <element signature="n#sub_image_details#0;n#Market_model#0;n#!!top" expanded="false" />
+            <element signature="n#update_main_image#0;n#Market_model#0;n#!!top" expanded="false" />
+            <element signature="n#update_sub_image#0;n#Market_model#0;n#!!top" expanded="false" />
+            <element signature="n#delete_sub_image#0;n#Market_model#0;n#!!top" expanded="false" />
+            <element signature="n#insert_promote#0;n#Market_model#0;n#!!top" expanded="false" />
+            <element signature="e#9559#9626#0#PHP" expanded="false" />
+            <element signature="n#get_top_ad_settings_info#0;n#Market_model#0;n#!!top" expanded="false" />
+            <element signature="n#get_bump_ad_settings_info#0;n#Market_model#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/modules/market_place/controllers/market_place.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#__construct#0;n#Market_place#0;n#!!top" expanded="false" />
+            <element signature="n#index#0;n#Market_place#0;n#!!top" expanded="false" />
+            <element signature="n#market_place_by_sub_category#0;n#Market_place#0;n#!!top" expanded="false" />
+            <element signature="n#market_memebrs#0;n#Market_place#0;n#!!top" expanded="false" />
+            <element signature="n#market_place_by_search_product#0;n#Market_place#0;n#!!top" expanded="false" />
+            <element signature="n#post_add#0;n#Market_place#0;n#!!top" expanded="false" />
+            <element signature="n#Product_detail#0;n#Market_place#0;n#!!top" expanded="false" />
+            <element signature="n#get_district#0;n#Market_place#0;n#!!top" expanded="false" />
+            <element signature="n#get_upazilla#0;n#Market_place#0;n#!!top" expanded="false" />
+            <element signature="n#product_search#0;n#Market_place#0;n#!!top" expanded="false" />
+            <element signature="n#product_cat_filter#0;n#Market_place#0;n#!!top" expanded="false" />
+            <element signature="n#product_sub_cat_filter#0;n#Market_place#0;n#!!top" expanded="false" />
+            <element signature="n#search_by_location#0;n#Market_place#0;n#!!top" expanded="false" />
+            <element signature="n#contact_us#0;n#Market_place#0;n#!!top" expanded="false" />
+            <element signature="n#contact_with_user#0;n#Market_place#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/modules/market/models/market_model.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3498">
+          <caret line="159" column="31" selection-start-line="159" selection-start-column="31" selection-end-line="159" selection-end-column="31" />
+          <folding>
+            <element signature="n#__construct#0;n#Market_model#0;n#!!top" expanded="false" />
+            <element signature="n#get_user_data#0;n#Market_model#0;n#!!top" expanded="false" />
+            <element signature="n#update_profile_info#0;n#Market_model#0;n#!!top" expanded="false" />
+            <element signature="n#get_all_product#0;n#Market_model#0;n#!!top" expanded="false" />
+            <element signature="n#get_members_info_by_reg_id#0;n#Market_model#0;n#!!top" expanded="false" />
+            <element signature="n#get_district#0;n#Market_model#0;n#!!top" expanded="false" />
+            <element signature="n#get_all_district#0;n#Market_model#0;n#!!top" expanded="false" />
+            <element signature="n#get_all_market_product#0;n#Market_model#0;n#!!top" expanded="false" />
+            <element signature="n#get_image_table_data#0;n#Market_model#0;n#!!top" expanded="false" />
+            <element signature="n#get_image_table_data_market#0;n#Market_model#0;n#!!top" expanded="false" />
+            <element signature="n#get_product_details#0;n#Market_model#0;n#!!top" expanded="false" />
+            <element signature="n#get_market_product_details#0;n#Market_model#0;n#!!top" expanded="false" />
+            <element signature="n#get_product_details_w_image#0;n#Market_model#0;n#!!top" expanded="false" />
+            <element signature="n#get_market_product_details_w_image#0;n#Market_model#0;n#!!top" expanded="false" />
+            <element signature="n#update_product_status#0;n#Market_model#0;n#!!top" expanded="false" />
+            <element signature="n#get_all_category#0;n#Market_model#0;n#!!top" expanded="false" />
+            <element signature="n#get_all_category2#0;n#Market_model#0;n#!!top" expanded="false" />
+            <element signature="n#get_sub_cat_name#0;n#Market_model#0;n#!!top" expanded="false" />
+            <element signature="n#check_top_ad#0;n#Market_model#0;n#!!top" expanded="false" />
+            <element signature="n#check_bump_ad#0;n#Market_model#0;n#!!top" expanded="false" />
+            <element signature="n#insert_new_product#0;n#Market_model#0;n#!!top" expanded="false" />
+            <element signature="n#insert_new_market_product#0;n#Market_model#0;n#!!top" expanded="false" />
+            <element signature="n#insert_product_images#0;n#Market_model#0;n#!!top" expanded="false" />
+            <element signature="n#insert_market_place_images#0;n#Market_model#0;n#!!top" expanded="false" />
+            <element signature="n#password_change#0;n#Market_model#0;n#!!top" expanded="false" />
+            <element signature="n#delete_product_sub_images#0;n#Market_model#0;n#!!top" expanded="false" />
+            <element signature="n#delete_market_product_sub_images#0;n#Market_model#0;n#!!top" expanded="false" />
+            <element signature="n#delete_product_confirm#0;n#Market_model#0;n#!!top" expanded="false" />
+            <element signature="n#delete_market_product_confirm#0;n#Market_model#0;n#!!top" expanded="false" />
+            <element signature="n#update_new_product#0;n#Market_model#0;n#!!top" expanded="false" />
+            <element signature="n#update_new_market_product#0;n#Market_model#0;n#!!top" expanded="false" />
+            <element signature="n#get_sub_category#0;n#Market_model#0;n#!!top" expanded="false" />
+            <element signature="n#get_specific_product#0;n#Market_model#0;n#!!top" expanded="false" />
+            <element signature="n#get_all_location#0;n#Market_model#0;n#!!top" expanded="false" />
+            <element signature="n#image_details#0;n#Market_model#0;n#!!top" expanded="false" />
+            <element signature="n#sub_image_details#0;n#Market_model#0;n#!!top" expanded="false" />
+            <element signature="n#update_main_image#0;n#Market_model#0;n#!!top" expanded="false" />
+            <element signature="n#update_sub_image#0;n#Market_model#0;n#!!top" expanded="false" />
+            <element signature="n#delete_sub_image#0;n#Market_model#0;n#!!top" expanded="false" />
+            <element signature="n#insert_promote#0;n#Market_model#0;n#!!top" expanded="false" />
+            <element signature="e#9559#9626#0#PHP" expanded="false" />
+            <element signature="n#get_top_ad_settings_info#0;n#Market_model#0;n#!!top" expanded="false" />
+            <element signature="n#get_bump_ad_settings_info#0;n#Market_model#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/modules/market/controllers/market.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1254">
+          <caret line="57" column="29" selection-start-line="57" selection-start-column="29" selection-end-line="57" selection-end-column="29" />
+          <folding>
+            <element signature="n#__construct#0;n#Market#0;n#!!top" expanded="false" />
+            <element signature="n#index#0;n#Market#0;n#!!top" expanded="false" />
+            <element signature="n#change_information#0;n#Market#0;n#!!top" expanded="false" />
+            <element signature="n#add_category#0;n#Market#0;n#!!top" expanded="false" />
+            <element signature="n#select_div#0;n#Market#0;n#!!top" expanded="false" />
+            <element signature="n#get_upazilla#0;n#Market#0;n#!!top" expanded="false" />
+            <element signature="n#insert_category#0;n#Market#0;n#!!top" expanded="false" />
+            <element signature="n#insert_sub_category#0;n#Market#0;n#!!top" expanded="false" />
+            <element signature="n#all_product#0;n#Market#0;n#!!top" expanded="false" />
+            <element signature="n#all_market_product#0;n#Market#0;n#!!top" expanded="false" />
+            <element signature="n#add_product#0;n#Market#0;n#!!top" expanded="false" />
+            <element signature="n#add_market_place_product#0;n#Market#0;n#!!top" expanded="false" />
+            <element signature="n#edit_product#0;n#Market#0;n#!!top" expanded="false" />
+            <element signature="n#edit_market_product#0;n#Market#0;n#!!top" expanded="false" />
+            <element signature="n#select_sub_category#0;n#Market#0;n#!!top" expanded="false" />
+            <element signature="n#update_product_details#0;n#Market#0;n#!!top" expanded="false" />
+            <element signature="n#image_details_modal#0;n#Market#0;n#!!top" expanded="false" />
+            <element signature="n#update_image#0;n#Market#0;n#!!top" expanded="false" />
+            <element signature="n#update_sub_image#0;n#Market#0;n#!!top" expanded="false" />
+            <element signature="n#sub_image_details_modal#0;n#Market#0;n#!!top" expanded="false" />
+            <element signature="n#update_market_product_details#0;n#Market#0;n#!!top" expanded="false" />
+            <element signature="n#delete_product#0;n#Market#0;n#!!top" expanded="false" />
+            <element signature="n#delete_market_product#0;n#Market#0;n#!!top" expanded="false" />
+            <element signature="n#insert_product#0;n#Market#0;n#!!top" expanded="false" />
+            <element signature="n#insert_product_marketplace#0;n#Market#0;n#!!top" expanded="false" />
+            <element signature="n#promote_ad#0;n#Market#0;n#!!top" expanded="false" />
+            <element signature="n#add_promote_add#0;n#Market#0;n#!!top" expanded="false" />
+            <element signature="n#watermark_image#0;n#Market#0;n#!!top" expanded="false" />
+            <element signature="n#watermark#0;n#Market#0;n#!!top" expanded="false" />
+            <element signature="n#overlay#0;n#Market#0;n#!!top" expanded="false" />
+            <element signature="n#resize#0;n#Market#0;n#!!top" expanded="false" />
+            <element signature="n#set_upload_options#0;n#Market#0;n#!!top" expanded="false" />
+            <element signature="n#change_password#0;n#Market#0;n#!!top" expanded="false" />
+            <element signature="n#update_product#0;n#Market#0;n#!!top" expanded="false" />
+            <element signature="n#all_company#0;n#Market#0;n#!!top" expanded="false" />
+            <element signature="n#logo#0;n#Market#0;n#!!top" expanded="false" />
+            <marker date="1502018469191" expanded="true" signature="10948:10976" placeholder="..." />
+            <marker date="1502018469191" expanded="true" signature="12340:12368" placeholder="..." />
+            <marker date="1502018469191" expanded="true" signature="39208:39266" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/modules/market/views/market_all.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5676">
+          <caret line="258" column="57" selection-start-line="258" selection-start-column="57" selection-end-line="258" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/modules/market/views/promote_ad.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/modules/market/views/review_ad.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="13794">
+          <caret line="627" column="0" selection-start-line="627" selection-start-column="0" selection-end-line="627" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/modules/market_place/controllers/market_place.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1650">
+          <caret line="75" column="52" selection-start-line="75" selection-start-column="27" selection-end-line="75" selection-end-column="52" />
+          <folding>
+            <element signature="n#__construct#0;n#Market_place#0;n#!!top" expanded="false" />
+            <element signature="n#index#0;n#Market_place#0;n#!!top" expanded="false" />
+            <element signature="n#market_place_by_sub_category#0;n#Market_place#0;n#!!top" expanded="false" />
+            <element signature="n#market_memebrs#0;n#Market_place#0;n#!!top" expanded="false" />
+            <element signature="n#market_place_by_search_product#0;n#Market_place#0;n#!!top" expanded="false" />
+            <element signature="n#post_add#0;n#Market_place#0;n#!!top" expanded="false" />
+            <element signature="n#Product_detail#0;n#Market_place#0;n#!!top" expanded="false" />
+            <element signature="n#get_district#0;n#Market_place#0;n#!!top" expanded="false" />
+            <element signature="n#get_upazilla#0;n#Market_place#0;n#!!top" expanded="false" />
+            <element signature="n#product_search#0;n#Market_place#0;n#!!top" expanded="false" />
+            <element signature="n#product_cat_filter#0;n#Market_place#0;n#!!top" expanded="false" />
+            <element signature="n#product_sub_cat_filter#0;n#Market_place#0;n#!!top" expanded="false" />
+            <element signature="n#search_by_location#0;n#Market_place#0;n#!!top" expanded="false" />
+            <element signature="n#contact_us#0;n#Market_place#0;n#!!top" expanded="false" />
+            <element signature="n#contact_with_user#0;n#Market_place#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/modules/market/controllers/market.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#__construct#0;n#Market#0;n#!!top" expanded="false" />
+            <element signature="n#index#0;n#Market#0;n#!!top" expanded="false" />
+            <element signature="n#change_information#0;n#Market#0;n#!!top" expanded="false" />
+            <element signature="n#add_category#0;n#Market#0;n#!!top" expanded="false" />
+            <element signature="n#select_div#0;n#Market#0;n#!!top" expanded="false" />
+            <element signature="n#get_upazilla#0;n#Market#0;n#!!top" expanded="false" />
+            <element signature="n#insert_category#0;n#Market#0;n#!!top" expanded="false" />
+            <element signature="n#insert_sub_category#0;n#Market#0;n#!!top" expanded="false" />
+            <element signature="n#all_product#0;n#Market#0;n#!!top" expanded="false" />
+            <element signature="n#all_market_product#0;n#Market#0;n#!!top" expanded="false" />
+            <element signature="n#add_product#0;n#Market#0;n#!!top" expanded="false" />
+            <element signature="n#add_market_place_product#0;n#Market#0;n#!!top" expanded="false" />
+            <element signature="n#edit_product#0;n#Market#0;n#!!top" expanded="false" />
+            <element signature="n#edit_market_product#0;n#Market#0;n#!!top" expanded="false" />
+            <element signature="n#select_sub_category#0;n#Market#0;n#!!top" expanded="false" />
+            <element signature="n#update_product_details#0;n#Market#0;n#!!top" expanded="false" />
+            <element signature="n#image_details_modal#0;n#Market#0;n#!!top" expanded="false" />
+            <element signature="n#update_image#0;n#Market#0;n#!!top" expanded="false" />
+            <element signature="n#update_sub_image#0;n#Market#0;n#!!top" expanded="false" />
+            <element signature="n#sub_image_details_modal#0;n#Market#0;n#!!top" expanded="false" />
+            <element signature="n#update_market_product_details#0;n#Market#0;n#!!top" expanded="false" />
+            <element signature="n#delete_product#0;n#Market#0;n#!!top" expanded="false" />
+            <element signature="n#delete_market_product#0;n#Market#0;n#!!top" expanded="false" />
+            <element signature="n#insert_product#0;n#Market#0;n#!!top" expanded="false" />
+            <element signature="n#insert_product_marketplace#0;n#Market#0;n#!!top" expanded="false" />
+            <element signature="n#promote_ad#0;n#Market#0;n#!!top" expanded="false" />
+            <element signature="n#add_promote_add#0;n#Market#0;n#!!top" expanded="false" />
+            <element signature="n#watermark_image#0;n#Market#0;n#!!top" expanded="false" />
+            <element signature="n#watermark#0;n#Market#0;n#!!top" expanded="false" />
+            <element signature="n#overlay#0;n#Market#0;n#!!top" expanded="false" />
+            <element signature="n#resize#0;n#Market#0;n#!!top" expanded="false" />
+            <element signature="n#set_upload_options#0;n#Market#0;n#!!top" expanded="false" />
+            <element signature="n#change_password#0;n#Market#0;n#!!top" expanded="false" />
+            <element signature="n#update_product#0;n#Market#0;n#!!top" expanded="false" />
+            <element signature="n#all_company#0;n#Market#0;n#!!top" expanded="false" />
+            <element signature="n#logo#0;n#Market#0;n#!!top" expanded="false" />
+            <marker date="1502018469191" expanded="true" signature="10948:10976" placeholder="..." />
+            <marker date="1502018469191" expanded="true" signature="12340:12368" placeholder="..." />
+            <marker date="1502018469191" expanded="true" signature="39208:39266" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/modules/market/models/market_model.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5786">
+          <caret line="263" column="34" selection-start-line="263" selection-start-column="20" selection-end-line="263" selection-end-column="34" />
+          <folding>
+            <element signature="n#__construct#0;n#Market_model#0;n#!!top" expanded="false" />
+            <element signature="n#get_user_data#0;n#Market_model#0;n#!!top" expanded="false" />
+            <element signature="n#update_profile_info#0;n#Market_model#0;n#!!top" expanded="false" />
+            <element signature="n#get_all_product#0;n#Market_model#0;n#!!top" expanded="false" />
+            <element signature="n#get_members_info_by_reg_id#0;n#Market_model#0;n#!!top" expanded="false" />
+            <element signature="n#get_district#0;n#Market_model#0;n#!!top" expanded="false" />
+            <element signature="n#get_all_district#0;n#Market_model#0;n#!!top" expanded="false" />
+            <element signature="n#get_all_market_product#0;n#Market_model#0;n#!!top" expanded="false" />
+            <element signature="n#get_image_table_data#0;n#Market_model#0;n#!!top" expanded="false" />
+            <element signature="n#get_image_table_data_market#0;n#Market_model#0;n#!!top" expanded="false" />
+            <element signature="n#get_product_details#0;n#Market_model#0;n#!!top" expanded="false" />
+            <element signature="n#get_market_product_details#0;n#Market_model#0;n#!!top" expanded="false" />
+            <element signature="n#get_product_details_w_image#0;n#Market_model#0;n#!!top" expanded="false" />
+            <element signature="n#get_market_product_details_w_image#0;n#Market_model#0;n#!!top" expanded="false" />
+            <element signature="n#update_product_status#0;n#Market_model#0;n#!!top" expanded="false" />
+            <element signature="n#get_all_category#0;n#Market_model#0;n#!!top" expanded="false" />
+            <element signature="n#get_all_category2#0;n#Market_model#0;n#!!top" expanded="false" />
+            <element signature="n#get_sub_cat_name#0;n#Market_model#0;n#!!top" expanded="false" />
+            <element signature="n#check_top_ad#0;n#Market_model#0;n#!!top" expanded="false" />
+            <element signature="n#check_bump_ad#0;n#Market_model#0;n#!!top" expanded="false" />
+            <element signature="n#insert_new_product#0;n#Market_model#0;n#!!top" expanded="false" />
+            <element signature="n#insert_new_market_product#0;n#Market_model#0;n#!!top" expanded="false" />
+            <element signature="n#insert_product_images#0;n#Market_model#0;n#!!top" expanded="false" />
+            <element signature="n#insert_market_place_images#0;n#Market_model#0;n#!!top" expanded="false" />
+            <element signature="n#password_change#0;n#Market_model#0;n#!!top" expanded="false" />
+            <element signature="n#delete_product_sub_images#0;n#Market_model#0;n#!!top" expanded="false" />
+            <element signature="n#delete_market_product_sub_images#0;n#Market_model#0;n#!!top" expanded="false" />
+            <element signature="n#delete_product_confirm#0;n#Market_model#0;n#!!top" expanded="false" />
+            <element signature="n#delete_market_product_confirm#0;n#Market_model#0;n#!!top" expanded="false" />
+            <element signature="n#update_new_product#0;n#Market_model#0;n#!!top" expanded="false" />
+            <element signature="n#update_new_market_product#0;n#Market_model#0;n#!!top" expanded="false" />
+            <element signature="n#get_sub_category#0;n#Market_model#0;n#!!top" expanded="false" />
+            <element signature="n#get_specific_product#0;n#Market_model#0;n#!!top" expanded="false" />
+            <element signature="n#get_all_location#0;n#Market_model#0;n#!!top" expanded="false" />
+            <element signature="n#image_details#0;n#Market_model#0;n#!!top" expanded="false" />
+            <element signature="n#sub_image_details#0;n#Market_model#0;n#!!top" expanded="false" />
+            <element signature="n#update_main_image#0;n#Market_model#0;n#!!top" expanded="false" />
+            <element signature="n#update_sub_image#0;n#Market_model#0;n#!!top" expanded="false" />
+            <element signature="n#delete_sub_image#0;n#Market_model#0;n#!!top" expanded="false" />
+            <element signature="n#insert_promote#0;n#Market_model#0;n#!!top" expanded="false" />
+            <element signature="e#9559#9626#0#PHP" expanded="false" />
+            <element signature="n#get_top_ad_settings_info#0;n#Market_model#0;n#!!top" expanded="false" />
+            <element signature="n#get_bump_ad_settings_info#0;n#Market_model#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/modules/market/views/promote_ad.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6182">
+          <caret line="281" column="101" selection-start-line="281" selection-start-column="101" selection-end-line="281" selection-end-column="101" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/modules/market_place/controllers/market_place.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#__construct#0;n#Market_place#0;n#!!top" expanded="false" />
+            <element signature="n#index#0;n#Market_place#0;n#!!top" expanded="false" />
+            <element signature="n#market_place_by_sub_category#0;n#Market_place#0;n#!!top" expanded="false" />
+            <element signature="n#market_memebrs#0;n#Market_place#0;n#!!top" expanded="false" />
+            <element signature="n#market_place_by_search_product#0;n#Market_place#0;n#!!top" expanded="false" />
+            <element signature="n#post_add#0;n#Market_place#0;n#!!top" expanded="false" />
+            <element signature="n#Product_detail#0;n#Market_place#0;n#!!top" expanded="false" />
+            <element signature="n#get_district#0;n#Market_place#0;n#!!top" expanded="false" />
+            <element signature="n#get_upazilla#0;n#Market_place#0;n#!!top" expanded="false" />
+            <element signature="n#product_search#0;n#Market_place#0;n#!!top" expanded="false" />
+            <element signature="n#product_cat_filter#0;n#Market_place#0;n#!!top" expanded="false" />
+            <element signature="n#product_sub_cat_filter#0;n#Market_place#0;n#!!top" expanded="false" />
+            <element signature="n#search_by_location#0;n#Market_place#0;n#!!top" expanded="false" />
+            <element signature="n#contact_us#0;n#Market_place#0;n#!!top" expanded="false" />
+            <element signature="n#contact_with_user#0;n#Market_place#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/modules/market/controllers/market.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#__construct#0;n#Market#0;n#!!top" expanded="false" />
+            <element signature="n#index#0;n#Market#0;n#!!top" expanded="false" />
+            <element signature="n#change_information#0;n#Market#0;n#!!top" expanded="false" />
+            <element signature="n#add_category#0;n#Market#0;n#!!top" expanded="false" />
+            <element signature="n#select_div#0;n#Market#0;n#!!top" expanded="false" />
+            <element signature="n#get_upazilla#0;n#Market#0;n#!!top" expanded="false" />
+            <element signature="n#insert_category#0;n#Market#0;n#!!top" expanded="false" />
+            <element signature="n#insert_sub_category#0;n#Market#0;n#!!top" expanded="false" />
+            <element signature="n#all_product#0;n#Market#0;n#!!top" expanded="false" />
+            <element signature="n#all_market_product#0;n#Market#0;n#!!top" expanded="false" />
+            <element signature="n#add_product#0;n#Market#0;n#!!top" expanded="false" />
+            <element signature="n#add_market_place_product#0;n#Market#0;n#!!top" expanded="false" />
+            <element signature="n#edit_product#0;n#Market#0;n#!!top" expanded="false" />
+            <element signature="n#edit_market_product#0;n#Market#0;n#!!top" expanded="false" />
+            <element signature="n#select_sub_category#0;n#Market#0;n#!!top" expanded="false" />
+            <element signature="n#update_product_details#0;n#Market#0;n#!!top" expanded="false" />
+            <element signature="n#image_details_modal#0;n#Market#0;n#!!top" expanded="false" />
+            <element signature="n#update_image#0;n#Market#0;n#!!top" expanded="false" />
+            <element signature="n#update_sub_image#0;n#Market#0;n#!!top" expanded="false" />
+            <element signature="n#sub_image_details_modal#0;n#Market#0;n#!!top" expanded="false" />
+            <element signature="n#update_market_product_details#0;n#Market#0;n#!!top" expanded="false" />
+            <element signature="n#delete_product#0;n#Market#0;n#!!top" expanded="false" />
+            <element signature="n#delete_market_product#0;n#Market#0;n#!!top" expanded="false" />
+            <element signature="n#insert_product#0;n#Market#0;n#!!top" expanded="false" />
+            <element signature="n#insert_product_marketplace#0;n#Market#0;n#!!top" expanded="false" />
+            <element signature="n#promote_ad#0;n#Market#0;n#!!top" expanded="false" />
+            <element signature="n#add_promote_add#0;n#Market#0;n#!!top" expanded="false" />
+            <element signature="n#watermark_image#0;n#Market#0;n#!!top" expanded="false" />
+            <element signature="n#watermark#0;n#Market#0;n#!!top" expanded="false" />
+            <element signature="n#overlay#0;n#Market#0;n#!!top" expanded="false" />
+            <element signature="n#resize#0;n#Market#0;n#!!top" expanded="false" />
+            <element signature="n#set_upload_options#0;n#Market#0;n#!!top" expanded="false" />
+            <element signature="n#change_password#0;n#Market#0;n#!!top" expanded="false" />
+            <element signature="n#update_product#0;n#Market#0;n#!!top" expanded="false" />
+            <element signature="n#all_company#0;n#Market#0;n#!!top" expanded="false" />
+            <element signature="n#logo#0;n#Market#0;n#!!top" expanded="false" />
+            <marker date="1502018469191" expanded="true" signature="10948:10976" placeholder="..." />
+            <marker date="1502018469191" expanded="true" signature="12340:12368" placeholder="..." />
+            <marker date="1502018469191" expanded="true" signature="39208:39266" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/modules/market/models/market_model.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5984">
+          <caret line="272" column="10" selection-start-line="272" selection-start-column="10" selection-end-line="272" selection-end-column="10" />
+          <folding>
+            <element signature="n#__construct#0;n#Market_model#0;n#!!top" expanded="false" />
+            <element signature="n#get_user_data#0;n#Market_model#0;n#!!top" expanded="false" />
+            <element signature="n#update_profile_info#0;n#Market_model#0;n#!!top" expanded="false" />
+            <element signature="n#get_all_product#0;n#Market_model#0;n#!!top" expanded="false" />
+            <element signature="n#get_members_info_by_reg_id#0;n#Market_model#0;n#!!top" expanded="false" />
+            <element signature="n#get_district#0;n#Market_model#0;n#!!top" expanded="false" />
+            <element signature="n#get_all_district#0;n#Market_model#0;n#!!top" expanded="false" />
+            <element signature="n#get_all_market_product#0;n#Market_model#0;n#!!top" expanded="false" />
+            <element signature="n#get_image_table_data#0;n#Market_model#0;n#!!top" expanded="false" />
+            <element signature="n#get_image_table_data_market#0;n#Market_model#0;n#!!top" expanded="false" />
+            <element signature="n#get_product_details#0;n#Market_model#0;n#!!top" expanded="false" />
+            <element signature="n#get_market_product_details#0;n#Market_model#0;n#!!top" expanded="false" />
+            <element signature="n#get_product_details_w_image#0;n#Market_model#0;n#!!top" expanded="false" />
+            <element signature="n#get_market_product_details_w_image#0;n#Market_model#0;n#!!top" expanded="false" />
+            <element signature="n#update_product_status#0;n#Market_model#0;n#!!top" expanded="false" />
+            <element signature="n#get_all_category#0;n#Market_model#0;n#!!top" expanded="false" />
+            <element signature="n#get_all_category2#0;n#Market_model#0;n#!!top" expanded="false" />
+            <element signature="n#get_sub_cat_name#0;n#Market_model#0;n#!!top" expanded="false" />
+            <element signature="n#check_top_ad#0;n#Market_model#0;n#!!top" expanded="false" />
+            <element signature="n#check_bump_ad#0;n#Market_model#0;n#!!top" expanded="false" />
+            <element signature="n#insert_new_product#0;n#Market_model#0;n#!!top" expanded="false" />
+            <element signature="n#insert_new_market_product#0;n#Market_model#0;n#!!top" expanded="false" />
+            <element signature="n#insert_product_images#0;n#Market_model#0;n#!!top" expanded="false" />
+            <element signature="n#insert_market_place_images#0;n#Market_model#0;n#!!top" expanded="false" />
+            <element signature="n#password_change#0;n#Market_model#0;n#!!top" expanded="false" />
+            <element signature="n#delete_product_sub_images#0;n#Market_model#0;n#!!top" expanded="false" />
+            <element signature="n#delete_market_product_sub_images#0;n#Market_model#0;n#!!top" expanded="false" />
+            <element signature="n#delete_product_confirm#0;n#Market_model#0;n#!!top" expanded="false" />
+            <element signature="n#delete_market_product_confirm#0;n#Market_model#0;n#!!top" expanded="false" />
+            <element signature="n#update_new_product#0;n#Market_model#0;n#!!top" expanded="false" />
+            <element signature="n#update_new_market_product#0;n#Market_model#0;n#!!top" expanded="false" />
+            <element signature="n#get_sub_category#0;n#Market_model#0;n#!!top" expanded="false" />
+            <element signature="n#get_specific_product#0;n#Market_model#0;n#!!top" expanded="false" />
+            <element signature="n#get_all_location#0;n#Market_model#0;n#!!top" expanded="false" />
+            <element signature="n#image_details#0;n#Market_model#0;n#!!top" expanded="false" />
+            <element signature="n#sub_image_details#0;n#Market_model#0;n#!!top" expanded="false" />
+            <element signature="n#update_main_image#0;n#Market_model#0;n#!!top" expanded="false" />
+            <element signature="n#update_sub_image#0;n#Market_model#0;n#!!top" expanded="false" />
+            <element signature="n#delete_sub_image#0;n#Market_model#0;n#!!top" expanded="false" />
+            <element signature="n#insert_promote#0;n#Market_model#0;n#!!top" expanded="false" />
+            <element signature="e#9559#9626#0#PHP" expanded="false" />
+            <element signature="n#get_top_ad_settings_info#0;n#Market_model#0;n#!!top" expanded="false" />
+            <element signature="n#get_bump_ad_settings_info#0;n#Market_model#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/modules/market/views/promote_ad.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7458">
+          <caret line="339" column="51" selection-start-line="339" selection-start-column="51" selection-end-line="339" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/modules/market_place/controllers/market_place.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#__construct#0;n#Market_place#0;n#!!top" expanded="false" />
+            <element signature="n#index#0;n#Market_place#0;n#!!top" expanded="false" />
+            <element signature="n#market_place_by_sub_category#0;n#Market_place#0;n#!!top" expanded="false" />
+            <element signature="n#market_memebrs#0;n#Market_place#0;n#!!top" expanded="false" />
+            <element signature="n#market_place_by_search_product#0;n#Market_place#0;n#!!top" expanded="false" />
+            <element signature="n#post_add#0;n#Market_place#0;n#!!top" expanded="false" />
+            <element signature="n#Product_detail#0;n#Market_place#0;n#!!top" expanded="false" />
+            <element signature="n#get_district#0;n#Market_place#0;n#!!top" expanded="false" />
+            <element signature="n#get_upazilla#0;n#Market_place#0;n#!!top" expanded="false" />
+            <element signature="n#product_search#0;n#Market_place#0;n#!!top" expanded="false" />
+            <element signature="n#product_cat_filter#0;n#Market_place#0;n#!!top" expanded="false" />
+            <element signature="n#product_sub_cat_filter#0;n#Market_place#0;n#!!top" expanded="false" />
+            <element signature="n#search_by_location#0;n#Market_place#0;n#!!top" expanded="false" />
+            <element signature="n#contact_us#0;n#Market_place#0;n#!!top" expanded="false" />
+            <element signature="n#contact_with_user#0;n#Market_place#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/modules/market/controllers/market.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15642">
+          <caret line="711" column="35" selection-start-line="711" selection-start-column="25" selection-end-line="711" selection-end-column="35" />
+          <folding>
+            <element signature="n#__construct#0;n#Market#0;n#!!top" expanded="false" />
+            <element signature="n#index#0;n#Market#0;n#!!top" expanded="false" />
+            <element signature="n#change_information#0;n#Market#0;n#!!top" expanded="false" />
+            <element signature="n#add_category#0;n#Market#0;n#!!top" expanded="false" />
+            <element signature="n#select_div#0;n#Market#0;n#!!top" expanded="false" />
+            <element signature="n#get_upazilla#0;n#Market#0;n#!!top" expanded="false" />
+            <element signature="n#insert_category#0;n#Market#0;n#!!top" expanded="false" />
+            <element signature="n#insert_sub_category#0;n#Market#0;n#!!top" expanded="false" />
+            <element signature="n#all_product#0;n#Market#0;n#!!top" expanded="false" />
+            <element signature="n#all_market_product#0;n#Market#0;n#!!top" expanded="false" />
+            <element signature="n#add_product#0;n#Market#0;n#!!top" expanded="false" />
+            <element signature="n#add_market_place_product#0;n#Market#0;n#!!top" expanded="false" />
+            <element signature="n#edit_product#0;n#Market#0;n#!!top" expanded="false" />
+            <element signature="n#edit_market_product#0;n#Market#0;n#!!top" expanded="false" />
+            <element signature="n#select_sub_category#0;n#Market#0;n#!!top" expanded="false" />
+            <element signature="n#update_product_details#0;n#Market#0;n#!!top" expanded="false" />
+            <element signature="n#image_details_modal#0;n#Market#0;n#!!top" expanded="false" />
+            <element signature="n#update_image#0;n#Market#0;n#!!top" expanded="false" />
+            <element signature="n#update_sub_image#0;n#Market#0;n#!!top" expanded="false" />
+            <element signature="n#sub_image_details_modal#0;n#Market#0;n#!!top" expanded="false" />
+            <element signature="n#update_market_product_details#0;n#Market#0;n#!!top" expanded="false" />
+            <element signature="n#delete_product#0;n#Market#0;n#!!top" expanded="false" />
+            <element signature="n#delete_market_product#0;n#Market#0;n#!!top" expanded="false" />
+            <element signature="n#insert_product#0;n#Market#0;n#!!top" expanded="false" />
+            <element signature="n#insert_product_marketplace#0;n#Market#0;n#!!top" expanded="false" />
+            <element signature="n#promote_ad#0;n#Market#0;n#!!top" expanded="false" />
+            <element signature="n#add_promote_add#0;n#Market#0;n#!!top" expanded="false" />
+            <element signature="n#watermark_image#0;n#Market#0;n#!!top" expanded="false" />
+            <element signature="n#watermark#0;n#Market#0;n#!!top" expanded="false" />
+            <element signature="n#overlay#0;n#Market#0;n#!!top" expanded="false" />
+            <element signature="n#resize#0;n#Market#0;n#!!top" expanded="false" />
+            <element signature="n#set_upload_options#0;n#Market#0;n#!!top" expanded="false" />
+            <element signature="n#change_password#0;n#Market#0;n#!!top" expanded="false" />
+            <element signature="n#update_product#0;n#Market#0;n#!!top" expanded="false" />
+            <element signature="n#all_company#0;n#Market#0;n#!!top" expanded="false" />
+            <element signature="n#logo#0;n#Market#0;n#!!top" expanded="false" />
+            <marker date="1502018469191" expanded="true" signature="10948:10976" placeholder="..." />
+            <marker date="1502018469191" expanded="true" signature="12340:12368" placeholder="..." />
+            <marker date="1502018469191" expanded="true" signature="39208:39266" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/modules/market/views/promote_ad.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/config/config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="21" column="32" selection-start-line="21" selection-start-column="32" selection-end-line="21" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/modules/market_place/views/market_content/market_header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-750">
+          <caret line="259" column="103" selection-start-line="259" selection-start-column="96" selection-end-line="259" selection-end-column="103" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/daterangepicker.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/modules/market_place/views/market_place_sub_category.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="235">
+          <caret line="75" column="100" selection-start-line="75" selection-start-column="100" selection-end-line="75" selection-end-column="100" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/modules/market/views/market_all.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4254">
+          <caret line="258" column="57" selection-start-line="258" selection-start-column="57" selection-end-line="258" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/modules/market/views/review_ad.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="492">
+          <caret line="627" column="0" selection-start-line="627" selection-start-column="0" selection-end-line="627" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/modules/market_place/models/market_place_model.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1870">
+          <caret line="239" column="39" selection-start-line="239" selection-start-column="20" selection-end-line="239" selection-end-column="39" />
+          <folding>
+            <element signature="n#total_viewers_count#0;n#Market_place_model#0;n#!!top" expanded="false" />
+            <element signature="n#viewers_count#0;n#Market_place_model#0;n#!!top" expanded="false" />
+            <element signature="n#market_category_with_sub_category#0;n#Market_place_model#0;n#!!top" expanded="false" />
+            <element signature="n#select_market_location#0;n#Market_place_model#0;n#!!top" expanded="false" />
+            <element signature="n#get_market_slider#0;n#Market_place_model#0;n#!!top" expanded="false" />
+            <element signature="n#select_market_category#0;n#Market_place_model#0;n#!!top" expanded="false" />
+            <element signature="n#select_market_cat#0;n#Market_place_model#0;n#!!top" expanded="false" />
+            <element signature="n#select_ad_by_sub_category#0;n#Market_place_model#0;n#!!top" expanded="false" />
+            <element signature="n#select_ad_by_category#0;n#Market_place_model#0;n#!!top" expanded="false" />
+            <element signature="n#market_place_description#0;n#Market_place_model#0;n#!!top" expanded="false" />
+            <element signature="n#search#0;n#Market_place_model#0;n#!!top" expanded="false" />
+            <element signature="n#market_place_description_pagination#0;n#Market_place_model#0;n#!!top" expanded="false" />
+            <element signature="n#market_place_description_pagination_all#0;n#Market_place_model#0;n#!!top" expanded="false" />
+            <element signature="n#get_all_top_product_by_keyword#0;n#Market_place_model#0;n#!!top" expanded="false" />
+            <element signature="n#get_all_bump_product_by_keyword#0;n#Market_place_model#0;n#!!top" expanded="false" />
+            <element signature="n#all_bump_settings#0;n#Market_place_model#0;n#!!top" expanded="false" />
+            <element signature="n#get_all_top_product#0;n#Market_place_model#0;n#!!top" expanded="false" />
+            <element signature="n#all_bump_product#0;n#Market_place_model#0;n#!!top" expanded="false" />
+            <element signature="n#update_bump_product#0;n#Market_place_model#0;n#!!top" expanded="false" />
+            <element signature="n#get_all_bump_product#0;n#Market_place_model#0;n#!!top" expanded="false" />
+            <element signature="n#market_place_description_by_search#0;n#Market_place_model#0;n#!!top" expanded="false" />
+            <element signature="n#market_place_description_by_search2#0;n#Market_place_model#0;n#!!top" expanded="false" />
+            <element signature="n#get_all_top_product_by_search#0;n#Market_place_model#0;n#!!top" expanded="false" />
+            <element signature="n#get_all_top_product_by_search2#0;n#Market_place_model#0;n#!!top" expanded="false" />
+            <element signature="n#get_all_bump_product_by_search#0;n#Market_place_model#0;n#!!top" expanded="false" />
+            <element signature="n#get_all_bump_product_by_search2#0;n#Market_place_model#0;n#!!top" expanded="false" />
+            <element signature="n#market_place_description_by_search_pagination#0;n#Market_place_model#0;n#!!top" expanded="false" />
+            <element signature="n#market_place_description_by_search_pagination2#0;n#Market_place_model#0;n#!!top" expanded="false" />
+            <element signature="n#select_all_cat#0;n#Market_place_model#0;n#!!top" expanded="false" />
+            <element signature="n#market_place_filter_by_cat#0;n#Market_place_model#0;n#!!top" expanded="false" />
+            <element signature="n#market_place_filter_by_cat_pagination#0;n#Market_place_model#0;n#!!top" expanded="false" />
+            <element signature="n#market_place_filter_by_cat_pagination2#0;n#Market_place_model#0;n#!!top" expanded="false" />
+            <element signature="n#get_all_top_product_by_category#0;n#Market_place_model#0;n#!!top" expanded="false" />
+            <element signature="n#get_all_top_product_by_category2#0;n#Market_place_model#0;n#!!top" expanded="false" />
+            <element signature="n#get_all_bump_product_by_category#0;n#Market_place_model#0;n#!!top" expanded="false" />
+            <element signature="n#get_all_bump_product_by_category2#0;n#Market_place_model#0;n#!!top" expanded="false" />
+            <element signature="n#market_place_filter_by_sub_cat#0;n#Market_place_model#0;n#!!top" expanded="false" />
+            <element signature="n#market_place_filter_by_sub_cat_pagination#0;n#Market_place_model#0;n#!!top" expanded="false" />
+            <element signature="n#get_all_top_product_by_subcategory#0;n#Market_place_model#0;n#!!top" expanded="false" />
+            <element signature="n#get_all_bump_product_by_subcategory#0;n#Market_place_model#0;n#!!top" expanded="false" />
+            <element signature="n#select_all_sub_cat#0;n#Market_place_model#0;n#!!top" expanded="false" />
+            <element signature="n#select_product#0;n#Market_place_model#0;n#!!top" expanded="false" />
+            <element signature="n#select_product_details_by_id#0;n#Market_place_model#0;n#!!top" expanded="false" />
+            <element signature="n#select_feature_product_3#0;n#Market_place_model#0;n#!!top" expanded="false" />
+            <element signature="n#select_slider_image#0;n#Market_place_model#0;n#!!top" expanded="false" />
+            <element signature="n#select_news_feed#0;n#Market_place_model#0;n#!!top" expanded="false" />
+            <element signature="n#select_advertise#0;n#Market_place_model#0;n#!!top" expanded="false" />
+            <element signature="n#select_related_product#0;n#Market_place_model#0;n#!!top" expanded="false" />
+            <element signature="n#select_description_market_place_id#0;n#Market_place_model#0;n#!!top" expanded="false" />
+            <element signature="n#members_details#0;n#Market_place_model#0;n#!!top" expanded="false" />
+            <element signature="n#members_detail_info#0;n#Market_place_model#0;n#!!top" expanded="false" />
+            <element signature="n#members_market_place_description#0;n#Market_place_model#0;n#!!top" expanded="false" />
+            <element signature="n#get_members_product#0;n#Market_place_model#0;n#!!top" expanded="false" />
+            <element signature="n#member_market_place_description_pagination_all#0;n#Market_place_model#0;n#!!top" expanded="false" />
+            <element signature="n#get_all_top_product_by_reg_id#0;n#Market_place_model#0;n#!!top" expanded="false" />
+            <element signature="n#get_all_bump_product_by_reg_id#0;n#Market_place_model#0;n#!!top" expanded="false" />
+            <element signature="n#select_product_by_location#0;n#Market_place_model#0;n#!!top" expanded="false" />
+            <element signature="n#select_product_by_location_pagination#0;n#Market_place_model#0;n#!!top" expanded="false" />
+            <element signature="n#get_all_top_product_by_location#0;n#Market_place_model#0;n#!!top" expanded="false" />
+            <element signature="n#get_all_bump_product_by_location#0;n#Market_place_model#0;n#!!top" expanded="false" />
+            <element signature="n#select_sub_images_by_id#0;n#Market_place_model#0;n#!!top" expanded="false" />
+            <element signature="n#get_sponsor#0;n#Market_place_model#0;n#!!top" expanded="false" />
+            <element signature="n#get_feature_product#0;n#Market_place_model#0;n#!!top" expanded="false" />
+            <element signature="n#insert_contact_us_data#0;n#Market_place_model#0;n#!!top" expanded="false" />
+            <element signature="n#get_counters#0;n#Market_place_model#0;n#!!top" expanded="false" />
+            <marker date="1502170708735" expanded="true" signature="1577:1771" placeholder="SELECT mc.*,... market_category" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/modules/market_place/controllers/market_place.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1298">
+          <caret line="188" column="10" selection-start-line="188" selection-start-column="10" selection-end-line="188" selection-end-column="10" />
+          <folding>
+            <element signature="n#__construct#0;n#Market_place#0;n#!!top" expanded="false" />
+            <element signature="n#index#0;n#Market_place#0;n#!!top" expanded="false" />
+            <element signature="n#market_place_by_sub_category#0;n#Market_place#0;n#!!top" expanded="false" />
+            <element signature="n#market_memebrs#0;n#Market_place#0;n#!!top" expanded="false" />
+            <element signature="n#market_place_by_search_product#0;n#Market_place#0;n#!!top" expanded="false" />
+            <element signature="n#post_add#0;n#Market_place#0;n#!!top" expanded="false" />
+            <element signature="n#Product_detail#0;n#Market_place#0;n#!!top" expanded="false" />
+            <element signature="n#get_district#0;n#Market_place#0;n#!!top" expanded="false" />
+            <element signature="n#get_upazilla#0;n#Market_place#0;n#!!top" expanded="false" />
+            <element signature="n#product_search#0;n#Market_place#0;n#!!top" expanded="false" />
+            <element signature="n#product_cat_filter#0;n#Market_place#0;n#!!top" expanded="false" />
+            <element signature="n#product_sub_cat_filter#0;n#Market_place#0;n#!!top" expanded="false" />
+            <element signature="n#search_by_location#0;n#Market_place#0;n#!!top" expanded="false" />
+            <element signature="n#contact_us#0;n#Market_place#0;n#!!top" expanded="false" />
+            <element signature="n#contact_with_user#0;n#Market_place#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/modules/market_place/views/view_market_product.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="164">
+          <caret line="210" column="12" selection-start-line="210" selection-start-column="12" selection-end-line="210" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/config/routes.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="38" column="2" selection-start-line="38" selection-start-column="2" selection-end-line="38" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/modules/market/controllers/market.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="774" column="5" selection-start-line="742" selection-start-column="4" selection-end-line="774" selection-end-column="5" />
+          <folding>
+            <element signature="n#__construct#0;n#Market#0;n#!!top" expanded="false" />
+            <element signature="n#index#0;n#Market#0;n#!!top" expanded="false" />
+            <element signature="n#change_information#0;n#Market#0;n#!!top" expanded="false" />
+            <element signature="n#add_category#0;n#Market#0;n#!!top" expanded="false" />
+            <element signature="n#select_div#0;n#Market#0;n#!!top" expanded="false" />
+            <element signature="n#get_upazilla#0;n#Market#0;n#!!top" expanded="false" />
+            <element signature="n#insert_category#0;n#Market#0;n#!!top" expanded="false" />
+            <element signature="n#insert_sub_category#0;n#Market#0;n#!!top" expanded="false" />
+            <element signature="n#all_product#0;n#Market#0;n#!!top" expanded="false" />
+            <element signature="n#all_market_product#0;n#Market#0;n#!!top" expanded="false" />
+            <element signature="n#add_product#0;n#Market#0;n#!!top" expanded="false" />
+            <element signature="n#add_market_place_product#0;n#Market#0;n#!!top" expanded="false" />
+            <element signature="n#edit_product#0;n#Market#0;n#!!top" expanded="false" />
+            <element signature="n#edit_market_product#0;n#Market#0;n#!!top" expanded="false" />
+            <element signature="n#select_sub_category#0;n#Market#0;n#!!top" expanded="false" />
+            <element signature="n#update_product_details#0;n#Market#0;n#!!top" expanded="false" />
+            <element signature="n#image_details_modal#0;n#Market#0;n#!!top" expanded="false" />
+            <element signature="n#update_image#0;n#Market#0;n#!!top" expanded="false" />
+            <element signature="n#update_sub_image#0;n#Market#0;n#!!top" expanded="false" />
+            <element signature="n#sub_image_details_modal#0;n#Market#0;n#!!top" expanded="false" />
+            <element signature="n#update_market_product_details#0;n#Market#0;n#!!top" expanded="false" />
+            <element signature="n#delete_product#0;n#Market#0;n#!!top" expanded="false" />
+            <element signature="n#delete_market_product#0;n#Market#0;n#!!top" expanded="false" />
+            <element signature="n#insert_product#0;n#Market#0;n#!!top" expanded="false" />
+            <element signature="n#insert_product_marketplace#0;n#Market#0;n#!!top" expanded="false" />
+            <element signature="n#promote_ad#0;n#Market#0;n#!!top" expanded="false" />
+            <element signature="n#add_promote_add#0;n#Market#0;n#!!top" expanded="false" />
+            <element signature="n#watermark_image#0;n#Market#0;n#!!top" expanded="false" />
+            <element signature="n#watermark#0;n#Market#0;n#!!top" expanded="false" />
+            <element signature="n#overlay#0;n#Market#0;n#!!top" expanded="false" />
+            <element signature="n#resize#0;n#Market#0;n#!!top" expanded="false" />
+            <element signature="n#set_upload_options#0;n#Market#0;n#!!top" expanded="false" />
+            <element signature="n#change_password#0;n#Market#0;n#!!top" expanded="false" />
+            <element signature="n#update_product#0;n#Market#0;n#!!top" expanded="false" />
+            <element signature="n#all_company#0;n#Market#0;n#!!top" expanded="false" />
+            <element signature="n#logo#0;n#Market#0;n#!!top" expanded="false" />
+            <marker date="1502018469191" expanded="true" signature="10948:10976" placeholder="..." />
+            <marker date="1502018469191" expanded="true" signature="12340:12368" placeholder="..." />
+            <marker date="1502018469191" expanded="true" signature="39208:39266" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/modules/market/models/market_model.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="383">
+          <caret line="166" column="0" selection-start-line="166" selection-start-column="0" selection-end-line="166" selection-end-column="0" />
+          <folding>
+            <element signature="n#__construct#0;n#Market_model#0;n#!!top" expanded="false" />
+            <element signature="n#get_user_data#0;n#Market_model#0;n#!!top" expanded="false" />
+            <element signature="n#update_profile_info#0;n#Market_model#0;n#!!top" expanded="false" />
+            <element signature="n#get_all_product#0;n#Market_model#0;n#!!top" expanded="false" />
+            <element signature="n#get_members_info_by_reg_id#0;n#Market_model#0;n#!!top" expanded="false" />
+            <element signature="n#get_district#0;n#Market_model#0;n#!!top" expanded="false" />
+            <element signature="n#get_all_district#0;n#Market_model#0;n#!!top" expanded="false" />
+            <element signature="n#get_all_market_product#0;n#Market_model#0;n#!!top" expanded="false" />
+            <element signature="n#get_image_table_data#0;n#Market_model#0;n#!!top" expanded="false" />
+            <element signature="n#get_image_table_data_market#0;n#Market_model#0;n#!!top" expanded="false" />
+            <element signature="n#get_product_details#0;n#Market_model#0;n#!!top" expanded="false" />
+            <element signature="n#get_market_product_details#0;n#Market_model#0;n#!!top" expanded="false" />
+            <element signature="n#get_product_details_w_image#0;n#Market_model#0;n#!!top" expanded="false" />
+            <element signature="n#get_market_product_details_w_image#0;n#Market_model#0;n#!!top" expanded="false" />
+            <element signature="n#update_product_status#0;n#Market_model#0;n#!!top" expanded="false" />
+            <element signature="n#get_all_category#0;n#Market_model#0;n#!!top" expanded="false" />
+            <element signature="n#get_all_category2#0;n#Market_model#0;n#!!top" expanded="false" />
+            <element signature="n#get_sub_cat_name#0;n#Market_model#0;n#!!top" expanded="false" />
+            <element signature="n#check_top_ad#0;n#Market_model#0;n#!!top" expanded="false" />
+            <element signature="n#check_bump_ad#0;n#Market_model#0;n#!!top" expanded="false" />
+            <element signature="n#insert_new_product#0;n#Market_model#0;n#!!top" expanded="false" />
+            <element signature="n#insert_new_market_product#0;n#Market_model#0;n#!!top" expanded="false" />
+            <element signature="n#insert_product_images#0;n#Market_model#0;n#!!top" expanded="false" />
+            <element signature="n#insert_market_place_images#0;n#Market_model#0;n#!!top" expanded="false" />
+            <element signature="n#password_change#0;n#Market_model#0;n#!!top" expanded="false" />
+            <element signature="n#delete_product_sub_images#0;n#Market_model#0;n#!!top" expanded="false" />
+            <element signature="n#delete_market_product_sub_images#0;n#Market_model#0;n#!!top" expanded="false" />
+            <element signature="n#delete_product_confirm#0;n#Market_model#0;n#!!top" expanded="false" />
+            <element signature="n#delete_market_product_confirm#0;n#Market_model#0;n#!!top" expanded="false" />
+            <element signature="n#update_new_product#0;n#Market_model#0;n#!!top" expanded="false" />
+            <element signature="n#update_new_market_product#0;n#Market_model#0;n#!!top" expanded="false" />
+            <element signature="n#get_sub_category#0;n#Market_model#0;n#!!top" expanded="false" />
+            <element signature="n#get_specific_product#0;n#Market_model#0;n#!!top" expanded="false" />
+            <element signature="n#get_all_location#0;n#Market_model#0;n#!!top" expanded="false" />
+            <element signature="n#image_details#0;n#Market_model#0;n#!!top" expanded="false" />
+            <element signature="n#sub_image_details#0;n#Market_model#0;n#!!top" expanded="false" />
+            <element signature="n#update_main_image#0;n#Market_model#0;n#!!top" expanded="false" />
+            <element signature="n#update_sub_image#0;n#Market_model#0;n#!!top" expanded="false" />
+            <element signature="n#delete_sub_image#0;n#Market_model#0;n#!!top" expanded="false" />
+            <element signature="n#insert_promote#0;n#Market_model#0;n#!!top" expanded="false" />
+            <element signature="e#9559#9626#0#PHP" expanded="false" />
+            <element signature="n#get_top_ad_settings_info#0;n#Market_model#0;n#!!top" expanded="false" />
+            <element signature="n#get_bump_ad_settings_info#0;n#Market_model#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/modules/market/views/promote_ad.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="169">
+          <caret line="333" column="30" selection-start-line="333" selection-start-column="23" selection-end-line="333" selection-end-column="30" />
+          <folding>
+            <marker date="1502020509705" expanded="true" signature="27303:27341" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

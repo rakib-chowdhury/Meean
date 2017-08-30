@@ -1,0 +1,179 @@
+/* content */
+
+@import url(http://fonts.googleapis.com/css?family=Open+Sans);
+
+#amazingcarousel-1 .amazingcarousel-image {	
+	position: relative;
+	padding: 4px;
+}
+
+#amazingcarousel-1 .amazingcarousel-image img {
+	display: block;
+	width: 100%;
+	max-width: 100%;
+	border: 0;
+	margin: 0;
+	padding: 0;
+	-moz-border-radius: 0px;
+	-webkit-border-radius: 0px;
+	border-radius: 0px;
+	-moz-box-shadow:  0 1px 4px rgba(0, 0, 0, 0.2);
+	-webkit-box-shadow: 0 1px 4px rgba(0, 0, 0, 0.2);
+	box-shadow: 0 1px 4px rgba(0, 0, 0, 0.2);
+}
+
+#amazingcarousel-1 .amazingcarousel-title {
+	position:relative;
+	font:14px 'Open Sans', sans-serif;
+	color:#333333;
+	margin:6px;
+	text-align:center;
+	text-shadow:0px 1px 1px #fff;
+}
+
+/* carousel */
+
+#amazingcarousel-container-1 {
+	padding: 32px 48px;
+	background-color: #eee;
+}
+
+#amazingcarousel-1 .amazingcarousel-list-container { 
+	padding: 16px 0;
+}
+
+/* item */
+
+#amazingcarousel-1 .amazingcarousel-item-container {
+	text-align: center;
+	padding: 0px;
+	background-color: #2d395d;
+	border: 1px solid #ddd;
+	-moz-box-shadow: 0px 0px 5px 1px rgba(96, 96, 96, 0.1);
+	-webkit-box-shadow: 0px 0px 5px 1px rgba(96, 96, 96, 0.1);
+	box-shadow: 0px 0px 5px 1px rgba(96, 96, 96, 0.1);
+}
+
+/* arrows */
+
+#amazingcarousel-1 .amazingcarousel-prev {
+	left: 0%;
+	top: 50%;
+	margin-left: -48px;
+	margin-top: -16px;
+}
+
+#amazingcarousel-1 .amazingcarousel-next {
+	right: 0%;
+	top: 50%;
+	margin-right: -48px;
+	margin-top: -16px;
+}
+
+/* navigation bullets */
+
+#amazingcarousel-1 .amazingcarousel-nav {
+	position: absolute;
+	width: 100%;
+	top: 100%;
+}
+
+#amazingcarousel-1 .amazingcarousel-bullet-wrapper {
+	margin: 4px auto;
+}
+
+.kotak-play-mags{
+  height: 400px;
+  max-width: 220px;
+	width: 100%;
+  background-color: #e9e6df;
+	border:  solid 3px #2c3b58 ;
+	overflow: hidden;
+	margin-bottom: 50px;
+}
+
+.kotak-clics{
+  height: 400px;
+  max-width: 220px;
+	width: 100%;
+  background-color: #e9e6df;
+	border:  solid 3px #2c3b58 ;
+	overflow: hidden;
+	margin-bottom: 50px;
+}
+
+.kotak-play-mags .ket-hover{
+	display: none;
+}
+
+.kotak-clics .ket-hover{
+	display: none;
+}
+
+.kotak-play-mags:hover .ket-hover{
+	display: block;
+	color: #000;
+}
+
+.kotak-clics:hover .ket-hover{
+	display: block;
+	color: #000;
+}
+
+.kotak-play-mags:hover{
+  height: 400px;
+  max-width: 220px;
+	width: 100%;
+  background-color: #EEB615;
+	border:  solid 3px #EEB615;
+	overflow: hidden;
+	margin-bottom: 50px;
+	transition: all 0.8s;
+  -moz-transition: all 0.8s;
+  -webkit-transition: all 0.8s;
+  -ms-transition: all 0.8s;
+  -o-transition: all 0.8s;
+		cursor: pointer;
+	color: #fff;
+}
+
+.kotak-clics:hover{
+  height: 400px;
+  max-width: 220px;
+	width: 100%;
+  background-color: #277CAC;
+	border:  solid 3px #277CAC;
+	overflow: hidden;
+	margin-bottom: 50px;
+	transition: all 0.8s;
+  -moz-transition: all 0.8s;
+  -webkit-transition: all 0.8s;
+  -ms-transition: all 0.8s;
+  -o-transition: all 0.8s;
+		cursor: pointer;
+	color: #fff;
+}
+
+.ket-hover{
+	height:60px;
+	width:100%;
+	background:#fefefe;
+	position:relative;
+	top:170px;
+	text-align: center;
+	z-index:2;
+	box-shadow: 0px 1px 10px #3f3f3f ;
+	color: #000;
+}
+
+.ket-hover:hover{
+	height:60px;
+	width:100%;
+	background:#fefefe;
+	position:relative;
+	top:170px;
+	text-align: center;
+	z-index:2;
+	box-shadow: 0px 1px 10px #3f3f3f ;
+	color: #000 !important;
+}

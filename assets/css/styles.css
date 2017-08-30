@@ -1,0 +1,1018 @@
+/* Sticky footer styles
+-------------------------------------------------- */
+
+html,
+body {
+  height: 100%;
+  /* The html and body elements cannot have any padding or margin. */
+}
+
+/* Sticky footer styles
+-------------------------------------------------- */
+
+html,
+body {
+  height: 100%;
+  /* The html and body elements cannot have any padding or margin. */
+}
+
+/* Wrapper for page content to push down footer 
+#wrap {
+  min-height: 100%;
+  height: auto !important;
+  height: 100%;
+  /* Negative indent footer by its height 
+  margin: 0 auto -60px;
+  /* Pad bottom by footer height 
+  padding: 0 0 60px;
+}  */
+
+
+/* Custom page CSS
+-------------------------------------------------- */
+/* Not required for template or sticky footer method. */
+
+#wrap > .container {
+  padding: 60px 15px 0;
+}
+.container .credit {
+  margin: 60px 0;
+}
+
+#footer > .container {
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+code {
+  font-size: 80%;
+}
+
+
+.tengah{
+	width: 400px;
+	height: 200px;
+	position: fixed;
+	top: 70%;
+	left: 50%;
+	margin-top: -140px;
+	margin-left: -200px;
+	text-align: center;
+	padding:40px;
+	display: table;
+}
+
+/* content detail */
+.image-garis
+	{
+	margin-left:35%;
+	}
+.mainan
+	{
+	border:solid; 
+	border-color:#cccccc;
+	border-width:thin;
+	width:100%;
+	height:400px;
+	margin-top:5%;
+	}
+.foma
+	{
+	border:solid; 
+	border-color:#cccccc;
+	border-width:thin;
+	width:90px;
+	height:80px;
+	padding-top:20px;
+	}
+.foma img
+	{
+		width:30px;
+	}
+#g-detail {
+    margin: 10px;
+    overflow: hidden;
+    position: relative;
+    }
+    .ket {
+    width: 100%;
+    height: auto;
+    text-align: left;
+    padding: 5px 10px;
+    background: #000;
+    opacity: 0.6;
+    color: #fff;
+    font-size: 10px;
+    font-family:myFont; 
+    }
+    #g-detail .ket {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    margin-bottom: -300px;
+    -webkit-transition: all 1s ease-out;
+    -moz-transition: all 1s ease-out;
+    -o-transition: all 1s ease-out;
+    transition: all 1s ease-out;
+    }
+    
+    #g-detail:hover .ket {
+    margin-bottom: 0px;
+    }
+	
+.clics
+	{
+	color:#6666CC; 
+	text-shadow:#6666CC;
+	font-size:40px;
+	float:left;
+	font-family:myFont;
+	margin-top:5%;
+	}
+.dolar
+	{
+	color:#28324e; 
+	font-size:90px;
+	font-family:myFont;
+	}
+.tegak
+	{
+	margin-top:20px;
+	color:#000000;
+	}
+.availability
+	{
+	color:#000000;
+	font-family:myFont;
+	font-size:14px;
+	margin-top:50%;
+	float:left;
+	}
+
+ /* jssor slider thumbnail navigator skin 12 css */
+            /*
+            .jssort12 .p            (normal)
+            .jssort12 .p:hover      (normal mouseover)
+            .jssort12 .pav          (active)
+            .jssort12 .pav:hover    (active mouseover)
+            .jssort12 .pdn          (mousedown)
+            */
+            .jssort12 {
+                position: absolute;
+                width: 600px;
+                height: 30px;
+            }
+
+                .jssort12 .w {
+                    cursor: pointer;
+                    position: absolute;
+                    WIDTH: 150px;
+                    HEIGHT: 28px;
+                    top: 0px;
+                    left: -1px;
+                }
+
+                .jssort12 .p {
+                    width: 150px;
+                    height: 30px;
+                    top: 0;
+                    left: 0;
+                    padding: 0px;
+                }
+
+                .jssort12 .pav .w, .jssort12 .pdn .w {
+                    border-bottom: 0px solid #660099;
+                }
+
+                .jssort12 .c {
+                    width: 100%;
+                    height: 100%;
+                    top: 0;
+                    left: 0;
+                    color: #fff;
+                    font-size: 18px;
+					font-family:myFont;
+					background-color:#660099;
+                }
+
+                .jssort12 .p .c, .jssort12 .pav:hover .c {
+                    background-color:#660099;
+
+
+					
+                }
+
+                .jssort12 .pav .c, .jssort12 .p:hover .c {
+                    background-color: #660099;
+					border-bottom: 3px solid white; 
+					-webkit-filter: blur(0px);
+                }
+.paragraf
+	{
+	text-indent:0.3in;
+	padding-top:3%; 
+	line-height:25px;
+	text-align:justify;
+	font-family:myFont;
+	font-size:16px;
+	position:relative;
+	color:#ffffff;
+	margin-left:5%;
+	margin-right:5%;
+	}
+.list
+	{
+	padding-top:3%; 
+	line-height:25px;
+	text-align:justify;
+	font-family:myFont;
+	font-size:16px;
+	position:relative;
+	color:#ffffff;
+	margin-left:5%;
+	margin-right:5%;
+	}
+.icon-bawah
+	{
+	
+	width:70px;
+	height:70px;
+	margin-top:10px;
+	}
+ /* jssor slider bullet navigator skin 01 css */
+                                /*
+                                .jssorb01 div           (normal)
+                                .jssorb01 div:hover     (normal mouseover)
+                                .jssorb01 .av           (active)
+                                .jssorb01 .av:hover     (active mouseover)
+                                .jssorb01 .dn           (mousedown)
+                                */
+                                .jssorb01 {
+                                    position: absolute;
+                                }
+                    
+                                    .jssorb01 div, .jssorb01 div:hover, .jssorb01 .av {
+                                        position: absolute;
+                                        /* size of bullet elment */
+                                        width: 12px;
+                                        height: 12px;
+                                        filter: alpha(opacity=70);
+                                        opacity: .7;
+                                        overflow: hidden;
+                                        cursor: pointer;
+                                        border: #000 1px solid;
+                                    }
+                    
+                                    .jssorb01 div {
+                                        background-color: gray;
+                                    }
+                    
+                                        .jssorb01 div:hover, .jssorb01 .av:hover {
+                                            background-color: #d3d3d3;
+                                        }
+                    
+                                    .jssorb01 .av {
+                                        background-color: #fff;
+                                    }
+                    
+                                    .jssorb01 .dn, .jssorb01 .dn:hover {
+                                        background-color: #555555;
+                                    }
+ /* jssor slider arrow navigator skin 05 css */
+                                /*
+                                .jssora05l                  (normal)
+                                .jssora05r                  (normal)
+                                .jssora05l:hover            (normal mouseover)
+                                .jssora05r:hover            (normal mouseover)
+                                .jssora05l.jssora05ldn      (mousedown)
+                                .jssora05r.jssora05rdn      (mousedown)
+                                */
+                                .jssora05l, .jssora05r {
+                                    display: block;
+                                    position: absolute;
+                                    /* size of arrow element */
+                                    width: 40px;
+                                    height: 40px;
+                                    cursor: pointer;
+                                    background: url(../img/a17.png) no-repeat;
+                                    overflow: hidden;
+                                }
+                                .jssora05l { background-position: -10px -40px; }
+                                .jssora05r { background-position: -70px -40px; }
+                                .jssora05l:hover { background-position: -130px -40px; }
+                                .jssora05r:hover { background-position: -190px -40px; }
+                                .jssora05l.jssora05ldn { background-position: -250px -40px; }
+                                .jssora05r.jssora05rdn { background-position: -310px -40px; }
+/* content detail finish */
+/*tambahan header*/
+.tambah
+	{
+		border:none;
+		height:30px;
+	}
+
+/* banner */
+.banner{
+ background: rgba(0, 0, 0, 0.75);
+ background:url(../img/anakcewek.png) no-repeat scroll;
+ background-size: 100% auto;
+ min-height: 500px;
+
+}
+.bannerclics{
+ background: rgba(0, 0, 0, 0.75);
+ background:url(../img/bannerclics.png) no-repeat scroll;
+ background-size: 100% auto;
+ min-height: 500px;
+}
+
+/* about */
+.tentang
+	{
+	margin-top:5%;
+	margin-left:30%;
+	margin-bottom:5%;
+	text-align:center;
+	}
+.tentang-play
+	{
+	margin-top:5%;
+	margin-bottom:5%;
+		margin-left: 30%;
+		margin-right: : 30%;
+	
+	}
+.tentang-vidio
+	{
+	background-image:url(../img/about.jpg);
+	background-repeat:no-repeat;
+	background-position:center center;
+	height:400px;
+	margin-top:5%;
+	margin-bottom:5%;
+	}
+.tentang-lorem
+	{
+		text-indent:30px;
+		margin:15% 5% 23% 10%;
+		font-family:myFont;
+		font-size:20px
+	}
+/* Plan Building */
+
+.judul-build1
+	{
+	background-color:#3b9f56;
+	max-width:400px;
+	width:100%;
+	height:40px;
+	border-radius:5px;
+	border:none;
+	text-align:center;
+	padding-top:5px;
+	font-family:myFont;
+	color:#FFFFFF;
+	font-weight:bold;
+	font-size:16px;
+	margin-left:10%;
+	margin-top:10%;
+	}
+.membangun1
+	{
+	font-family:myFont;
+	color:#5e5e5e;
+	font-size:14px;
+	max-width:400px;
+	width:100%;
+	text-indent:30px;
+	margin-top:5%;
+	margin-left:10%;
+	text-align:justify;
+	}
+.gambar1
+	{
+	max-width:350px;
+	width:100%;
+	margin-bottom:5%;
+	}
+.judul-build2
+	{
+	background-color:#f16f2f;
+	margin-left:10px;
+	max-width:400px;
+	width:100%;
+	height:40px;
+	border-radius:5px;
+	border:none;
+	text-align:center;
+	padding-top:5px;
+	font-family:myFont;
+	color:#FFFFFF;
+	font-weight:bold;
+	font-size:16px;
+	margin-top:10%;
+	}
+.membangun2
+	{
+	font-family:myFont;
+	color:#5e5e5e;
+	font-size:14px;
+	max-width:400px;
+	width:100%;
+	text-indent:30px;
+	margin-top:5%;
+	margin-bottom:5%;
+	margin-left:2%;
+	text-align:justify;
+	}
+.gambar2
+	{
+	max-width:400px;
+	width:100%;
+	margin-top:5%;
+	}
+.gambarclics
+	{
+	max-width:400px;
+	width:100%;
+	margin-top:2%;
+	}
+.judul-build3
+	{
+	background-color:#3784b1;
+	max-width:400px;
+	width:100%;
+	height:40px;
+	border-radius:5px;
+	text-align:center;
+	padding-top:7px;
+	font-family:myFont;
+	color:#FFFFFF;
+	font-weight:bold;
+	font-size:16px;
+	margin-top:7%;
+	margin-left:10%;
+	}
+.membangun3
+	{
+	font-family:myFont;
+	color:#5e5e5e;
+	font-size:14px;
+	max-width:400px;
+	width:100%;
+	text-indent:30px;
+	margin-top:5%;
+	margin-left:10%;
+	text-align:justify;
+	}
+
+.link
+	{
+	color:#FF0000;
+	font-style:italic;
+	float:right;
+	}
+
+/* Plan Building Detail*/
+.box1
+	{
+	max-width:600px;
+	width:100%;
+	margin-top:12%;
+	background-color:#fff;
+	}
+.box2
+	{
+	max-width:600px;
+	width:100%;
+	margin-top:5%;
+	background-color:#fff;
+	}
+.step1
+	{
+	font-family:myFont;
+	color:#5e5e5e;
+	font-size:18px;
+	max-width:350px;
+	width:100%;
+	text-indent:30px;
+	margin-top:12%;
+	margin-left:10%;
+	text-align:justify;
+	}
+.nomor
+	{
+	padding-top:5%;
+	padding-left:85%; 
+	}
+.look
+	{
+		font-family:myFont;
+		font-size:5em; 
+	}	
+/* searching */
+
+		.form {
+			margin:30px auto;
+		}
+		.search {
+			padding:5px 15px;
+			background-color:#ffffff;
+			border:0px solid #dbdbdb;
+			width:930px;
+			border-radius:10px;
+			margin-bottom:10px;
+			margin-left:55px;
+		}
+		.textarea
+		{
+			font-family:myFont;
+		}
+		.button {
+			position:relative;
+			padding:0px 15px;
+			left:-15px;
+			border:2px solid #f8be41;
+			background-color:#f8be41;
+			color:#fafafa;
+			border-radius:10px;
+			height:30px;
+			width:80px;
+		}
+		.button:hover  {
+			background-color:#fafafa;
+			color:#f8be41;
+		}
+				  
+		::-webkit-input-placeholder { /* For WebKit browsers */
+			color:    #dd3333;
+						font-family:Helvetica Neue;
+						font-weight:bold;
+		}
+		:-moz-placeholder { /* For Mozilla Firefox 4 to 18 */
+			color:    #dd3333;
+						font-family:Helvetica Neue;
+						font-weight:bold;
+		}
+		::-moz-placeholder { /* For Mozilla Firefox 19+ */
+			color:    #dd3333;
+						font-family:Helvetica Neue;
+						font-weight:bold;
+		}
+		:-ms-input-placeholder { /* For Internet Explorer 10+ */
+			color:    #dd3333;
+						font-family:Helvetica Neue;
+						font-weight:bold;
+		}
+/* modal */
+.komentar
+		{
+		margin-top:30px; 
+		background-color:#e7e6e6; 
+		font-family:myFont; 
+		color:#68738c; 
+		height:50px; 
+		padding-top:7px; 
+		padding-left:5px;	
+		}
+.orang
+		{ 
+		font-family:myFont; 
+		color:#68738c; 
+		}
+.waktu
+		{ 
+		font-family:myFont; 
+		color:#f33e6e; 
+		}
+.tulis
+		{ 
+		font-family:myFont; 
+		color:#68738c;
+		background-color:#e7e6e6;
+		margin-top:5%;
+		}
+.kirim
+		{ 
+		font-family:myFont; 
+		background-color:#475577;
+		height:60px;
+		color:#efefef;
+		border:none;
+		width:100%;
+		}
+/*whishlist*/
+.tombol
+	{
+	background-color:#3b9f56;
+	color:#FFFFFF;
+	font-family:myFont;
+	font-size:16px;
+	width:150px;
+	border:none;
+	margin-bottom:20%;
+	
+	}
+.rekening{
+	width: 100%;
+	height: 80px;
+	background-color: #77ba22;
+	padding: 5px;
+	margin-top: 0px;
+}
+
+
+.menu-bawah{
+	background-color: #75706c;
+	color: #fff !important;
+	padding:10px;
+	margin-top: -4px;
+	border-radius: 5px;
+	opacity: 0.8;
+	text-decoration: none;
+}
+
+.menu-bawah:hover{
+	background-color: #e74c3c;
+	color: #fff !important;
+	padding:10px;
+	margin-top: -4px;
+	border-radius: 5px;
+	opacity: 0.9;
+	text-decoration: none;
+}
+
+/* Wrapper for page content to push down footer */
+#wrap {
+  min-height: 100%;
+  height: auto !important;
+  height: 100%;
+  /* Negative indent footer by its height */
+  margin: 0 auto -60px;
+  /* Pad bottom by footer height */
+  padding: 0 0 60px;
+}
+
+/* Set the fixed height of the footer here */
+
+.landing-page{
+	background: rgba(0, 0, 0, 0.75);
+	background: url('../img/landing.jpg') no-repeat scroll;
+	background-size: 100% 100%;
+	min-height: 750px;
+}
+
+.transparant{
+	  position: absolute;
+	width: 100%;
+	height: 100%;
+	min-height: 750px;
+  background: rgba(0, 0, 0, 0.4);
+}
+
+.judul-landing{
+	color: red;
+	font-weight: bold;
+	font-size: 20px;
+	letter-spacing: 2px;	
+}
+
+.bawah-judul-landing{
+	color: #fff;
+}
+
+.landing-bawah{
+	width: 100%;
+	height: auto;
+	background-color: black;
+	text-align: center;
+}
+
+.pilihan-landing-bawah{
+	width: 100%;
+	height: auto;
+	background-color: red;
+	color: #fff;
+	font-weight: bold;
+	font-size: 20px;
+	letter-spacing: 2px;
+	text-align: center;
+	padding: 10px;
+}
+
+.how-to-play{
+	background-color: #eeeeee;
+    width: 100%;
+    height: auto;
+	padding-top: 30px;
+}
+
+.ket-how-to-play{
+	margin-top: 20px;
+	margin-bottom: 20px;
+	font-size: 17px;
+}
+
+.garis-how-to-play{
+	border:1px;
+	width:200px;
+	height: 3px;
+	background-color:#c2c2c2;
+}
+
+.text-how-to-play{
+	font-family:"Script MT Bold";
+	color: red;
+	font-size: 30px;
+}
+
+.about-battle-bet{
+	background: url('../img/basket_seats.jpg') no-repeat scroll;
+	background-size: 100% 100%;
+	min-height: 400px;
+	height: auto;
+	padding-bottom: 50px;
+}
+
+.transparant-about{
+	position: absolute;
+	width: 100%;
+	min-height: 400px;
+	height: auto;
+  background: rgba(0, 0, 0, 0.4);
+	padding-bottom: 430px;
+}
+
+.text-about-battle-bet{
+		font-family:"Script MT Bold";
+	color: #fff;
+	font-size: 30px;
+}
+
+.colom-about{
+	width: 250px;
+	height: 130px;
+	background-color:#000;
+	border-radius: 10px;
+	margin: auto;
+	opacity: 0.56;
+	padding: 25px;
+}
+
+.colom-about:hover{
+	width: 250px;
+	height: 130px;
+	background-color:#bdbdbd;
+	border-radius: 10px;
+	margin: auto;
+	opacity: 0.8;
+	cursor: pointer;
+}
+
+.ket-about{
+	color: #fff;
+}
+
+.ket-about:hover{
+	color: #000;
+}
+
+.what-our-client-say{
+	width: 100%;
+	height: 1000px;
+	background-color: #eeeeee;
+	padding-bottom: 30px;
+}
+
+.button-left{
+	background-color: #983cd7;
+	box-shadow: -5px -5px 5px  #59268d inset;
+	padding: 20px;
+	height: 130px;
+}
+
+.button-center{
+	background-color: #ee401e;
+	box-shadow: -5px -5px 5px  #ae2c16 inset;
+	padding: 20px;
+	height: 130px;
+}
+
+.button-center:hover{
+	background-color: #d1381a;
+	cursor:pointer;
+}
+
+.button-right{
+	background-color: #f1a218;
+	box-shadow: -5px -5px 5px  #af7312 inset;
+	padding: 20px;
+	height: 130px;
+}
+
+.text-our-client-say{
+		font-family:"Script MT Bold";
+	color: #000;
+	font-size: 30px;
+}
+
+.banner-play{
+  background: rgba(0, 0, 0, 0.75);
+	background: url('../img/banner.jpg') no-repeat scroll;
+	background-size: 100% auto;
+	min-height: 500px;
+	height: auto;
+}
+
+.banner-clics{
+  background: rgba(0, 0, 0, 0.75);
+	background: url('../img/banner-clics.jpg') no-repeat scroll;
+	background-size: 100% auto;
+	min-height: 500px;
+	height: auto;
+}
+
+.banner-contact{
+  background: rgba(0, 0, 0, 0.75);
+	background: url('../img/banner-contact.png') no-repeat scroll;
+	background-size: 100% auto;
+	min-height: 500px;
+	height: auto;
+}
+
+.banner-peta{
+		display:block;
+		margin: auto;
+    	position: fixed;
+		top: 40px; left: 0; bottom: 0; right: 0;
+		z-index:1;
+		height:1000px;
+		width:100%;
+		max-width:1000px;
+}
+
+.rekening{
+	width: 100%;
+	height: 80px;
+	background-color: #77ba22;
+	padding: 5px;
+	margin-top: 0px;
+	z-index:999;
+}
+
+.footer-atas{
+	background: url('../img/footer.png') no-repeat scroll;
+	background-size: 100% 100%;
+    bottom: 0px;
+    width: 100%;
+    height: auto;
+	  padding-bottom: 30px;
+	z-index: 1000;
+}
+
+.menu
+	{
+		list-style-type:none;
+		text-align: left;
+		padding: 10px;
+		color:#4c556c;
+	}
+
+#footer {
+	height: auto;
+	width: 100%;
+	background-color: #fff;
+	text-align :center;
+	color:#fff;
+	bottom: 0px;
+}
+
+	
+/* Custom page CSS
+-------------------------------------------------- */
+/* Not required for template or sticky footer method. */
+
+#wrap > .container {
+  padding: 60px 15px 0;
+}
+.container .credit {
+  margin: 15px 0;
+}
+
+#footer > .container {
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+code {
+  font-size: 80%;
+}
+
+.tengah{
+	width: 400px;
+	height: 200px;
+	position: fixed;
+	top: 70%;
+	left: 50%;
+	margin-top: -140px;
+	margin-left: -200px;
+	text-align: center;
+	padding:40px;
+	display: table;
+}
+
+.bgl{
+background: url('../img/tekno1.jpg') fixed no-repeat 0% 0%;
+background-size: 100% 100%;
+}
+
+.new
+{
+    background-color: green;
+    padding: 2px 3px;
+    text-align: center;
+    transform: rotate(45deg);
+    position: relative;
+    left: 30px;
+    top: 10px;
+    color: white;
+    font-family: myFont;
+}
+
+.atur{
+	margin-bottom:10px;
+	height:50px;
+	background:#e7e6e6;
+	border:none;
+}
+
+.atur-aja{
+	margin-bottom:10px;
+	height:1000px;
+	background:#e7e6e6;
+	border:none;
+}
+
+.kirim
+  { 
+  font-family:myFont; 
+  background-color:#475577;
+  height:60px;
+  color:#efefef;
+  border:none;
+  width:100%;
+  margin-bottom:10px;
+  border-radius:5px;
+  }
+
+@media(max-width: 768px){
+.sosial-footer, .ilang, .button-left, .button-right{display:none;}
+}
+@media(min-width: 768px){
+.amazingcarousel-nav{display:none;}
+}
+body{
+	background:#eee;
+}
+/*
+.satu-hide, .dua-hide{display:none;}
+*/
+.kotak-feed{
+	border: 2px solid #354166;
+	text-align: center;
+	padding:5px 25px 5px 5px ;
+}
+
+.nduwur{
+    background-color: #1f2740;
+	color: white;
+	border-top-left-radius: 0px;
+	border-top-right-radius: 0px;
+	border-bottom-right-radius: 15px;
+	border-bottom-left-radius: 15px;
+}
+
+.profile_image {
+width:30%;
+  float:left;
+  margin-right:3%
+}
+
+.total_div {
+    overflow: hidden;
+}
+.profile_title {
+    width: 45%;
+	font-size:15px;
+	font-weight:bold;
+    float: left;
+}
+.profile_value {
+	font-size:15px;
+	width: 52%;
+	float: left;
+}
+.profile_description {
+	width:60%;
+    overflow: hidden;
+}
